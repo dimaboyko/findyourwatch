@@ -1,3 +1,3 @@
 project=hanami_server
-test=minitest
+test=rspec
 template=erb
