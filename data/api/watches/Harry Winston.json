@@ -1,0 +1,65 @@
+{
+    "num_results": 4,
+    "watches": [
+        {
+            "id": 14048,
+            "refnr": "OPUMTZ38PP004",
+            "name": "Opus 1",
+            "brand": {
+                "id": 73,
+                "name": "Harry Winston"
+            },
+            "family": {
+                "id": 331,
+                "name": "Opus"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/harry-winston\/opus\/opumtz38pp004-df.png",
+            "updated": "2015-02-11"
+        },
+        {
+            "id": 14049,
+            "refnr": "OPUMTO38PP008",
+            "name": "Opus 2",
+            "brand": {
+                "id": 73,
+                "name": "Harry Winston"
+            },
+            "family": {
+                "id": 331,
+                "name": "Opus"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/harry-winston\/opus\/opumto38pp008-9f.png",
+            "updated": "2015-02-11"
+        },
+        {
+            "id": 14050,
+            "refnr": "OPUMHD36RR001",
+            "name": "Opus 3",
+            "brand": {
+                "id": 73,
+                "name": "Harry Winston"
+            },
+            "family": {
+                "id": 331,
+                "name": "Opus"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/harry-winston\/opus\/opumhd36rr001-bc.png",
+            "updated": "2015-02-11"
+        },
+        {
+            "id": 14052,
+            "refnr": "OPUMTR44PP001",
+            "name": "Opus 4",
+            "brand": {
+                "id": 73,
+                "name": "Harry Winston"
+            },
+            "family": {
+                "id": 331,
+                "name": "Opus"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/harry-winston\/opus\/opumtr44pp001-46.png",
+            "updated": "2015-02-11"
+        }
+    ]
+}

@@ -1,0 +1,2435 @@
+{
+    "num_results": 162,
+    "watches": [
+        {
+            "id": 20904,
+            "refnr": "168580-3001",
+            "name": "Mille Miglia 2016 XL Race Edition Stainless Steel \/ Leather",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/168580-3001-d.jpg",
+            "updated": "2017-10-10"
+        },
+        {
+            "id": 20906,
+            "refnr": "161973-5001",
+            "name": "L.U.C Perpetual Chrono Fairmined Rose Gold \/ Anthracite",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161973-5001-57.jpg",
+            "updated": "2017-07-01"
+        },
+        {
+            "id": 20913,
+            "refnr": "168523-3001",
+            "name": "Superfast Chrono",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/superfast\/168523-3001-ce.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20914,
+            "refnr": "168511-3015",
+            "name": "Mille Miglia Chronograph Silver \/ Rubber",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/mille-miglia\/168511-3015-c0.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20915,
+            "refnr": "168511-3001",
+            "name": "Mille Miglia Chronograph Black \/ Rubber",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/mille-miglia\/168511-3001-93.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20916,
+            "refnr": "161920-5002",
+            "name": "L.U.C XPS Rose Gold",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161920-5002-f2.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20917,
+            "refnr": "161920-1004",
+            "name": "L.U.C XPS White Gold",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161920-1004-36.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20918,
+            "refnr": "161920-1001",
+            "name": "L.U.C XPS White Gold \/ Black",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161920-1001-b0.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20919,
+            "refnr": "161902-5051",
+            "name": "L.U.C XP Urushi Year of the Snake",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161902-5051-c2.jpg",
+            "updated": "2017-04-26"
+        },
+        {
+            "id": 20920,
+            "refnr": "161902-5052",
+            "name": "L.U.C XP Urushi Year of the Horse",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161902-5052-74.jpg",
+            "updated": "2017-04-26"
+        },
+        {
+            "id": 20921,
+            "refnr": "161902-5057",
+            "name": "L.U.C XP Urushi Plum Blossom",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161902-5057-51.jpg",
+            "updated": "2016-05-03"
+        },
+        {
+            "id": 20922,
+            "refnr": "161902-5056",
+            "name": "L.U.C XP Urushi Chrysanthemum",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161902-5056-b.jpg",
+            "updated": "2016-05-03"
+        },
+        {
+            "id": 20923,
+            "refnr": "161902-5055",
+            "name": "L.U.C XP Urushi Bamboo",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161902-5055-a5.jpg",
+            "updated": "2017-04-26"
+        },
+        {
+            "id": 20924,
+            "refnr": "161902-5047",
+            "name": "L.U.C XP Urushi Genbu",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161902-5047-ef.jpg",
+            "updated": "2017-04-26"
+        },
+        {
+            "id": 20925,
+            "refnr": "161902-5046",
+            "name": "L.U.C XP Urushi Phoenix",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161902-5046-c6.jpg",
+            "updated": "2017-04-26"
+        },
+        {
+            "id": 20926,
+            "refnr": "161902-5045",
+            "name": "L.U.C XP Urushi Qlin",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161902-5045-21.jpg",
+            "updated": "2017-04-26"
+        },
+        {
+            "id": 20927,
+            "refnr": "161902-1027",
+            "name": "L.U.C XP Urushi Orchid",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161902-1027-3e.jpg",
+            "updated": "2016-05-03"
+        },
+        {
+            "id": 20928,
+            "refnr": "161902-1023",
+            "name": "L.U.C XP Urushi Goldfish",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161902-1023-78.jpg",
+            "updated": "2016-05-03"
+        },
+        {
+            "id": 20929,
+            "refnr": "161902-1021",
+            "name": "L.U.C XP Urushi The Ultimate Universe",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161902-1021-4f.jpg",
+            "updated": "2016-05-03"
+        },
+        {
+            "id": 20930,
+            "refnr": "162294-5001",
+            "name": "L.U.C XP Tonneau Rose Gold",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/162294-5001-cc.jpg",
+            "updated": "2016-05-03"
+        },
+        {
+            "id": 20931,
+            "refnr": "161902-5001",
+            "name": "L.U.C XP Rose Gold",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161902-5001-6d.jpg",
+            "updated": "2016-04-29"
+        },
+        {
+            "id": 20932,
+            "refnr": "161902-1001",
+            "name": "L.U.C XP White Gold ",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161902-1001-3b.jpg",
+            "updated": "2016-04-29"
+        },
+        {
+            "id": 20933,
+            "refnr": "161929-5006",
+            "name": "L.U.C Tourbillon QF Fairmined",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161929-5006-e5.jpg",
+            "updated": "2016-05-03"
+        },
+        {
+            "id": 20934,
+            "refnr": "161911-1001",
+            "name": "L.U.C Tourbillon Esprit de Fleurier",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161911-1001-3c.jpg",
+            "updated": "2016-05-03"
+        },
+        {
+            "id": 20936,
+            "refnr": "161926-1001",
+            "name": "L.U.C Quattro White Gold",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161926-1001-6d.jpg",
+            "updated": "2016-04-29"
+        },
+        {
+            "id": 20937,
+            "refnr": "161896-5003",
+            "name": "L.U.C Qualité Fleurier Rose Gold \/ Grey",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161896-5003-57.jpg",
+            "updated": "2016-05-03"
+        },
+        {
+            "id": 20938,
+            "refnr": "161927-1001",
+            "name": "L.U.C Lunar One White Gold \/ Roman",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161927-1001-b7.jpg",
+            "updated": "2016-05-03"
+        },
+        {
+            "id": 20939,
+            "refnr": "161939-5001",
+            "name": "L.U.C Engine One Tourbillon Rose Gold",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161939-5001-26.jpg",
+            "updated": "2017-07-01"
+        },
+        {
+            "id": 20940,
+            "refnr": "161928-1001",
+            "name": "L.U.C Chrono One White Gold",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161928-1001-0.jpg",
+            "updated": "2016-05-03"
+        },
+        {
+            "id": 20941,
+            "refnr": "168558-3002",
+            "name": "L.U.C 1937 Painted Roman",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/168558-3002-60.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20942,
+            "refnr": "168558-3001",
+            "name": "L.U.C 1937 Silver",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/168558-3001-d4.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20943,
+            "refnr": "161925-5001",
+            "name": "L.U.C 150 All-In-One Rose Gold",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161925-5001-52.jpg",
+            "updated": "2016-04-29"
+        },
+        {
+            "id": 20944,
+            "refnr": "168568-9001",
+            "name": "Grand Prix de Monaco Historique Automatic Rose Gold Bezel",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/grand-prix-de-monaco-historique\/168568-9001-15.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20945,
+            "refnr": "168566-3002",
+            "name": "Mille Miglia 2015 Race Edition",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/mille-miglia\/168566-3002-f8.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20946,
+            "refnr": "161296-5002",
+            "name": "Mille Miglia 2015 Race Edition Rose Gold",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/mille-miglia\/161296-5002-e2.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20947,
+            "refnr": "161291-5001",
+            "name": "Superfast Power Control Rose Gold",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/superfast\/161291-5001-70.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20948,
+            "refnr": "161284-5001",
+            "name": "Superfast Chrono Rose Gold",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/superfast\/161284-5001-1.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20949,
+            "refnr": "161276-5003",
+            "name": "Superfast Chrono Rose Gold",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/superfast\/161276-5003-8c.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20950,
+            "refnr": "161902-5061",
+            "name": "L.U.C XP Urushi Year of the Monkey",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161902-5061-cd.jpg",
+            "updated": "2016-05-03"
+        },
+        {
+            "id": 20951,
+            "refnr": "131968-1002",
+            "name": "L.U.C XPS 35mm Esprit de Fleurier",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/131968-1002-f6.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20952,
+            "refnr": "161926-5003",
+            "name": "L.U.C Quattro Rose Gold \/ Brown",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161926-5003-aa.jpg",
+            "updated": "2016-04-29"
+        },
+        {
+            "id": 20953,
+            "refnr": "161926-9001",
+            "name": "L.U.C Quattro Platinum",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161926-9001-62.jpg",
+            "updated": "2016-04-29"
+        },
+        {
+            "id": 20954,
+            "refnr": "168565-3001",
+            "name": "Mille Miglia GTS Automatic Rubber",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/mille-miglia\/168565-3001-e3.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20955,
+            "refnr": "168571-3001",
+            "name": "Mille Miglia GTS Chrono Rubber",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/mille-miglia\/168571-3001-98.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20956,
+            "refnr": "161971-5001",
+            "name": "L.U.C Regulator",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161971-5001-63.jpg",
+            "updated": "2016-05-03"
+        },
+        {
+            "id": 20957,
+            "refnr": "161970-5001",
+            "name": "L.U.C 1963 Tourbillon",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161970-5001-79.jpg",
+            "updated": "2016-05-03"
+        },
+        {
+            "id": 20958,
+            "refnr": "161920-5006",
+            "name": "L.U.C XPS Fairmined",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161920-5006-b0.jpg",
+            "updated": "2017-07-01"
+        },
+        {
+            "id": 20960,
+            "refnr": "168535-3003",
+            "name": "Superfast Chrono Porsche 919 Jacky Ickx Edition",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/superfast\/168535-3003-ea.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20961,
+            "refnr": "168566-3001",
+            "name": "Mille Miglia GTS Power Control Rubber",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/mille-miglia\/168566-3001-d4.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20962,
+            "refnr": "161902-5060",
+            "name": "L.U.C XP Urushi Year of the Goat",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161902-5060-17.jpg",
+            "updated": "2016-05-03"
+        },
+        {
+            "id": 20963,
+            "refnr": "168535-3002",
+            "name": "Superfast Chrono Porsche 919 Edition",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/superfast\/168535-3002-38.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20964,
+            "refnr": "161964-5001",
+            "name": "L.U.C 1963 Chronograph",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161964-5001-4e.jpg",
+            "updated": "2016-05-03"
+        },
+        {
+            "id": 20965,
+            "refnr": "168511-3036",
+            "name": "Mille Miglia 2014 Race Edition",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/mille-miglia\/168511-3036-f1.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20966,
+            "refnr": "161274-5006",
+            "name": "Mille Miglia 2014 Race Edition Rose Gold",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/mille-miglia\/161274-5006-ea.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20967,
+            "refnr": "131968-5001",
+            "name": "L.U.C XPS 35mm Rose Gold \/ MOP",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/131968-5001-c1.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20968,
+            "refnr": "161969-1001",
+            "name": "L.U.C Lunar Big Date White Gold",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161969-1001-a6.jpg",
+            "updated": "2016-05-03"
+        },
+        {
+            "id": 20969,
+            "refnr": "168575-9001",
+            "name": "L.U.C 8HF Power Control",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/168575-9001-cf.jpg",
+            "updated": "2016-05-03"
+        },
+        {
+            "id": 20970,
+            "refnr": "161963-5001",
+            "name": "L.U.C 1963 Rose Gold",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161963-5001-11.jpg",
+            "updated": "2016-05-04"
+        },
+        {
+            "id": 20973,
+            "refnr": "168569-3001",
+            "name": "Grand Prix de Monaco Historique Power Control Strap",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/grand-prix-de-monaco-historique\/168569-3001-8d.jpg",
+            "updated": "2017-05-13"
+        },
+        {
+            "id": 20974,
+            "refnr": "168570-3001",
+            "name": "Grand Prix de Monaco Historique Chrono Strap",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/grand-prix-de-monaco-historique\/168570-3001-b0.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20975,
+            "refnr": "168568-3001",
+            "name": "Grand Prix de Monaco Historique Automatic Strap",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/grand-prix-de-monaco-historique\/168568-3001-cd.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20976,
+            "refnr": "168550-6001",
+            "name": "Mille Miglia Zagato Rose Gold Bezel",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/mille-miglia\/168550-6001-2.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20977,
+            "refnr": "168550-3004",
+            "name": "Mille Miglia Zagato",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/mille-miglia\/168550-3004-e8.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20979,
+            "refnr": "168537-3001",
+            "name": "Superfast Power Control",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/superfast\/168537-3001-7c.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20980,
+            "refnr": "168535-3001",
+            "name": "Superfast Chrono Black",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/superfast\/168535-3001-83.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20981,
+            "refnr": "161940-5001",
+            "name": "L.U.C Perpetual T",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161940-5001-80.jpg",
+            "updated": "2016-05-04"
+        },
+        {
+            "id": 20982,
+            "refnr": "168560-3001",
+            "name": "L.U.C Engine One H",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/168560-3001-f0.jpg",
+            "updated": "2016-05-04"
+        },
+        {
+            "id": 20983,
+            "refnr": "161937-5001",
+            "name": "L.U.C 1937 Classic Rose Gold",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161937-5001-e8.jpg",
+            "updated": "2016-05-04"
+        },
+        {
+            "id": 20984,
+            "refnr": "151937-5001",
+            "name": "L.U.C 1937 Classic Rose Gold \/ Bracelet",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/151937-5001-73.jpg",
+            "updated": "2016-05-04"
+        },
+        {
+            "id": 20985,
+            "refnr": "168554-3001",
+            "name": "L.U.C 8HF",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/168554-3001-72.jpg",
+            "updated": "2016-05-04"
+        },
+        {
+            "id": 20986,
+            "refnr": "161927-5001",
+            "name": "L.U.C Lunar One Rose Gold \/ Roman",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161927-5001-3f.jpg",
+            "updated": "2016-05-04"
+        },
+        {
+            "id": 20987,
+            "refnr": "384250-1002",
+            "name": "Imperiale Tourbillon Full Set",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 612,
+                "name": "Imperiale"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/imperiale\/384250-1002-14.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20988,
+            "refnr": "161932-5001",
+            "name": "L.U.C XPS Poinçon de Genève 125th Anniversary Edition",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161932-5001-cf.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20989,
+            "refnr": "161929-5001",
+            "name": "L.U.C Tourbillon Triple Certification",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161929-5001-69.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20990,
+            "refnr": "161902-5050",
+            "name": "L.U.C XP Urushi Jungle",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161902-5050-12.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20991,
+            "refnr": "161902-5049",
+            "name": "L.U.C XP Urushi Peacock",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161902-5049-55.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20992,
+            "refnr": "161902-5048",
+            "name": "L.U.C XP Urushi Tiger",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161902-5048-c5.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20993,
+            "refnr": "162294-1001",
+            "name": "L.U.C XP Tonneau White Gold",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/162294-1001-9f.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20994,
+            "refnr": "161926-5001",
+            "name": "L.U.C Quattro Rose Gold",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161926-5001-2e.jpg",
+            "updated": "2016-04-29"
+        },
+        {
+            "id": 20995,
+            "refnr": "168526-3003",
+            "name": "L.U.C Engine One Tourbillon Titanium \/ Orange",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/168526-3003-e2.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20996,
+            "refnr": "168526-3002",
+            "name": "L.U.C Engine One Tourbillon Titanium \/ Red",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/168526-3002-7b.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 20997,
+            "refnr": "161928-5001",
+            "name": "L.U.C Chrono One Rose Gold",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161928-5001-8c.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21000,
+            "refnr": "168542-3001",
+            "name": "Superfast Chrono Split Second",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/superfast\/168542-3001-b3.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21001,
+            "refnr": "161923-1001",
+            "name": "L.U.C Louis-Ulysse - The Tribute",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161923-1001-f9.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21002,
+            "refnr": "168527-3001",
+            "name": "L.U.C 1937 Anniversary",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/168527-3001-92.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21003,
+            "refnr": "161925-1001",
+            "name": "L.U.C 150 All-In-One White Gold",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161925-1001-d8.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21004,
+            "refnr": "168526-3001",
+            "name": "L.U.C Engine One Tourbillon Titanium",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/168526-3001-37.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21005,
+            "refnr": "161918-5002",
+            "name": "L.U.C Lunar Big Date Rose Gold",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161918-5002-cb.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21006,
+            "refnr": "161920-5001",
+            "name": "L.U.C XPS Rose Gold  \/ 4 Arabics",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161920-5001-8e.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21010,
+            "refnr": "158571-3001",
+            "name": "Mille Miglia GTS Chrono Bracelet",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/mille-miglia\/158571-3001-e5.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21017,
+            "refnr": "161293-5001",
+            "name": "Mille Miglia GTS Chrono Rose Gold",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/mille-miglia\/161293-5001-0.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21018,
+            "refnr": "158566-3001",
+            "name": "Mille Miglia GTS Power Control Bracelet",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/mille-miglia\/158566-3001-55.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21019,
+            "refnr": "161296-5001",
+            "name": "Mille Miglia GTS Power Control Rose Gold",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/mille-miglia\/161296-5001-e7.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21020,
+            "refnr": "158565-3001",
+            "name": "Mille Miglia GTS Automatic Bracelet",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/mille-miglia\/158565-3001-29.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21021,
+            "refnr": "161295-5001",
+            "name": "Mille Miglia GTS Automatic Rose Gold",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/mille-miglia\/161295-5001-84.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21022,
+            "refnr": "168570-9001",
+            "name": "Grand Prix de Monaco Historique Chrono Rose Gold Bezel",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/grand-prix-de-monaco-historique\/168570-9001-7c.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21023,
+            "refnr": "158570-3001",
+            "name": "Grand Prix de Monaco Historique Chrono Bracelet",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/grand-prix-de-monaco-historique\/158570-3001-f0.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21024,
+            "refnr": "158569-3001",
+            "name": "Grand Prix de Monaco Historique Power Control Bracelet",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/grand-prix-de-monaco-historique\/158569-3001-c1.jpg",
+            "updated": "2017-05-13"
+        },
+        {
+            "id": 21025,
+            "refnr": "168569-9001",
+            "name": "Grand Prix de Monaco Historique Power Control Rose Gold Bezel",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/grand-prix-de-monaco-historique\/168569-9001-f9.jpg",
+            "updated": "2017-05-13"
+        },
+        {
+            "id": 21026,
+            "refnr": "158568-3001",
+            "name": "Grand Prix de Monaco Historique Automatic Bracelet",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/grand-prix-de-monaco-historique\/158568-3001-46.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21027,
+            "refnr": "168459-3001",
+            "name": "Mille Miglia Gran Turismo XL Chrono Black \/ Rubber",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/168459-3001-7c.jpg",
+            "updated": "2016-05-07"
+        },
+        {
+            "id": 21028,
+            "refnr": "168997-3001",
+            "name": "Mille Miglia Gran Turismo XL Rubber",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/168997-3001-4e.jpg",
+            "updated": "2016-05-07"
+        },
+        {
+            "id": 21029,
+            "refnr": "158511-3002",
+            "name": "Mille Miglia Chronograph Black \/ Bracelet",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/158511-3002-3b.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21030,
+            "refnr": "158511-3001",
+            "name": "Mille Miglia Chronograph Silver \/ Bracelet",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/158511-3001-97.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21031,
+            "refnr": "178511-3001",
+            "name": "Mille Miglia Chronograph MOP \/ Diamond",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/178511-3001-f8.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21032,
+            "refnr": "158511-6001",
+            "name": "Mille Miglia Chronograph Two Tone \/ Silver",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/158511-6001-ba.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21033,
+            "refnr": "161274-5004",
+            "name": "Mille Miglia Chronograph Rose Gold \/ Silver \/ Rubber",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/161274-5004-4e.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21034,
+            "refnr": "161274-5005",
+            "name": "Mille Miglia Chronograph Rose Gold \/ Black \/ Rubber",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/161274-5005-62.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21035,
+            "refnr": "158511-6002",
+            "name": "Mille Miglia Chronograph Two Tone \/ Black",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/158511-6002-d7.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21036,
+            "refnr": "168511-3018",
+            "name": "Mille Miglia Chronograph MOP",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/168511-3018-9.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21037,
+            "refnr": "151274-5002",
+            "name": "Mille Miglia Chronograph Rose Gold \/ Black \/ Bracelet",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/151274-5002-71.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21038,
+            "refnr": "151274-5001",
+            "name": "Mille Miglia Chronograph Rose Gold \/ Silver \/ Bracelet",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/151274-5001-24.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21039,
+            "refnr": "168536-3001",
+            "name": "Superfast Automatic",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/168536-3001-b0.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21040,
+            "refnr": "161290-5001",
+            "name": "Superfast Automatic Rose Gold",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/161290-5001-ed.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21047,
+            "refnr": "158558-3002",
+            "name": "L.U.C 1937 Painted Roman \/ Bracelet",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/158558-3002-2b.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21048,
+            "refnr": "158558-3001",
+            "name": "L.U.C 1937 Silver \/ Bracelet",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/158558-3001-c9.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21049,
+            "refnr": "131968-1001",
+            "name": "L.U.C XPS 35mm White Gold \/ MOP",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/131968-1001-a0.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21050,
+            "refnr": "121968-1001",
+            "name": "L.U.C XPS 35mm White Gold",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/121968-1001-bb.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21051,
+            "refnr": "121968-5001",
+            "name": "L.U.C XPS 35mm Rose Gold",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/121968-5001-5c.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21052,
+            "refnr": "161932-9002",
+            "name": "L.U.C XPS Platinum",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161932-9002-6b.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21053,
+            "refnr": "161920-5005",
+            "name": "L.U.C XPS Rose Gold  \/ Champagne",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161920-5005-ac.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21054,
+            "refnr": "161936-5001",
+            "name": "L.U.C XPS Rose Gold Skeletec",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161936-5001-a1.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21055,
+            "refnr": "161920-1005",
+            "name": "L.U.C XPS White Gold \/ Cognac",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161920-1005-73.jpg",
+            "updated": "2017-07-01"
+        },
+        {
+            "id": 21056,
+            "refnr": "161963-9001",
+            "name": "L.U.C 1963 Platinum",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161963-9001-b7.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21057,
+            "refnr": "171966-5003",
+            "name": "L.U.C XP Rose Gold Diamond",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/171966-5003-cc.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21058,
+            "refnr": "161936-5003",
+            "name": "L.U.C XPS Rose Gold Skeletec Slate",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161936-5003-b3.jpg",
+            "updated": "2017-07-01"
+        },
+        {
+            "id": 21059,
+            "refnr": "171936-1001",
+            "name": "L.U.C XPS White Gold Skeletec Diamond",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/171936-1001-c8.jpg",
+            "updated": "2017-07-01"
+        },
+        {
+            "id": 21060,
+            "refnr": "171966-1003",
+            "name": "L.U.C XP White Gold Diamond",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/171966-1003-41.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21061,
+            "refnr": "171926-5001",
+            "name": "L.U.C Quattro Rose Gold \/ Diamond",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/171926-5001-7b.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21062,
+            "refnr": "171926-1001",
+            "name": " L.U.C Quattro White Gold \/ Diamond",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/171926-1001-d5.jpg",
+            "updated": "2016-05-06"
+        },
+        {
+            "id": 21063,
+            "refnr": "168544-3001",
+            "name": "L.U.C 1937 Painted Roman Black Hands",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/168544-3001-e8.jpg",
+            "updated": "2016-05-07"
+        },
+        {
+            "id": 21064,
+            "refnr": "168544-3002",
+            "name": "L.U.C 1937 Silver",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/168544-3002-72.jpg",
+            "updated": "2016-05-07"
+        },
+        {
+            "id": 21065,
+            "refnr": "161969-5001",
+            "name": "L.U.C Lunar Big Date Rose Gold",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161969-5001-44.jpg",
+            "updated": "2016-05-07"
+        },
+        {
+            "id": 21066,
+            "refnr": "158992-3005",
+            "name": "Mille Miglia GMT Chrono",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/158992-3005-27.jpg",
+            "updated": "2016-05-07"
+        },
+        {
+            "id": 21068,
+            "refnr": "158457-3002",
+            "name": "Mille Miglia Gran Turismo XL Power Control White \/ Bracelet",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/158457-3002-1d.jpg",
+            "updated": "2016-05-07"
+        },
+        {
+            "id": 21069,
+            "refnr": "158457-3001",
+            "name": "Mille Miglia Gran Turismo XL Power Control Black \/ Bracelet",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/158457-3001-93.jpg",
+            "updated": "2016-05-07"
+        },
+        {
+            "id": 21070,
+            "refnr": "168457-3001",
+            "name": "Mille Miglia Gran Turismo XL Power Control Black \/ Rubber",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/168457-3001-e2.jpg",
+            "updated": "2016-05-07"
+        },
+        {
+            "id": 21071,
+            "refnr": "178997-3001",
+            "name": "Mille Miglia Gran Turismo XL Pink",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/178997-3001-22.jpg",
+            "updated": "2016-05-07"
+        },
+        {
+            "id": 21072,
+            "refnr": "158997-3001",
+            "name": "Mille Miglia Gran Turismo XL Bracelet",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/158997-3001-79.jpg",
+            "updated": "2016-05-07"
+        },
+        {
+            "id": 21073,
+            "refnr": "168513-3001",
+            "name": "Mille Miglia Gran Turismo XL Chrono Split Second",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/168513-3001-8f.jpg",
+            "updated": "2016-05-07"
+        },
+        {
+            "id": 21074,
+            "refnr": "168459-3041",
+            "name": "Miglia Gran Turismo XL Chrono Titanium",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/168459-3041-ce.jpg",
+            "updated": "2016-05-07"
+        },
+        {
+            "id": 21075,
+            "refnr": "158459-3001",
+            "name": "Mille Miglia Gran Turismo XL Chrono Black \/ Bracelet",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/158459-3001-6.jpg",
+            "updated": "2016-05-07"
+        },
+        {
+            "id": 21076,
+            "refnr": "168459-3037",
+            "name": "Mille Miglia 2011 Race Edition",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/168459-3037-53.jpg",
+            "updated": "2016-05-07"
+        },
+        {
+            "id": 21077,
+            "refnr": "168459-3019",
+            "name": "Mille Miglia 2010 Race Edition",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/168459-3019-ea.jpg",
+            "updated": "2016-05-07"
+        },
+        {
+            "id": 21078,
+            "refnr": "168550-3001",
+            "name": "Mille Miglia 2012 Race Edition Stainless Steel",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/168550-3001-8c.jpg",
+            "updated": "2016-05-07"
+        },
+        {
+            "id": 21079,
+            "refnr": "161288-5001",
+            "name": "Mille Miglia 2012 Race Edition Rose Gold",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/161288-5001-75.jpg",
+            "updated": "2016-05-07"
+        },
+        {
+            "id": 21080,
+            "refnr": "168992-9001",
+            "name": "Grand Prix de Monaco Historique 2012 Race Edition Gold Bezel",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/168992-9001-62.jpg",
+            "updated": "2016-05-07"
+        },
+        {
+            "id": 21081,
+            "refnr": "168992-3032",
+            "name": "Grand Prix de Monaco Historique 2012 Race Edition",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/168992-3032-94.jpg",
+            "updated": "2016-05-07"
+        },
+        {
+            "id": 21082,
+            "refnr": "161275-5004",
+            "name": "Grand Prix de Monaco Historique 2012 Race Edition Rose Gold",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/161275-5004-d6.jpg",
+            "updated": "2016-05-07"
+        },
+        {
+            "id": 21083,
+            "refnr": "168992-3031",
+            "name": "Grand Prix de Monaco Historique 2010 Race Edition Strap",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/168992-3031-d1.jpg",
+            "updated": "2016-05-07"
+        },
+        {
+            "id": 21084,
+            "refnr": "158992-3006",
+            "name": "Grand Prix de Monaco Historique 2010 Race Edition Bracelet",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/158992-3006-9f.jpg",
+            "updated": "2016-05-07"
+        },
+        {
+            "id": 21085,
+            "refnr": "161275-5003",
+            "name": "Grand Prix de Monaco Historique 2010 Race Edition Rose Gold",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/161275-5003-b0.jpg",
+            "updated": "2016-05-07"
+        },
+        {
+            "id": 25573,
+            "refnr": "161927-9001",
+            "name": "L.U.C Lunar One Platinum \/ Blue",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161927-9001-d3.jpg",
+            "updated": "2017-04-05"
+        },
+        {
+            "id": 25574,
+            "refnr": "161945-5001",
+            "name": " L.U.C Twist Fairmined Rose Gold \/ Slate",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161945-5001-bc.jpg",
+            "updated": "2017-04-05"
+        },
+        {
+            "id": 25575,
+            "refnr": "161973-9001",
+            "name": "L.U.C Perpetual Chrono Platinum \/ Blue",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161973-9001-fc.jpg",
+            "updated": "2017-04-05"
+        },
+        {
+            "id": 27930,
+            "refnr": "168570-3002",
+            "name": "Grand Prix de Monaco Historique 2016 Chronograph \/ NATO",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/https-objects-chopard-com-media-catalog-product-cache-4-thumbnail-361x510-9df78eab33525d08d6e5fb8d27136e95-1-6-168570-3002-01-jpg-9b.jpg",
+            "updated": "2017-09-13"
+        },
+        {
+            "id": 29384,
+            "refnr": "388531-3004",
+            "name": "Imperiale 40 mm Stainless Steel \/ MOP \/ Diamond \/ Bracelet",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 612,
+                "name": "Imperiale"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/imperiale\/388531-3004-42.jpg",
+            "updated": "2017-10-10"
+        },
+        {
+            "id": 29385,
+            "refnr": "388531-3002",
+            "name": "Imperiale 40 mm Stainless Steel \/ MOP \/ Diamond \/ Alligator",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 612,
+                "name": "Imperiale"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/imperiale\/388531-3002-c.jpg",
+            "updated": "2017-10-10"
+        },
+        {
+            "id": 29386,
+            "refnr": "384211-5001",
+            "name": "Imperiale Chrono 40 mm Rose Gold \/ MOP \/ Alligator",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 612,
+                "name": "Imperiale"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/imperiale\/384211-5001-de.jpg",
+            "updated": "2017-10-10"
+        },
+        {
+            "id": 29387,
+            "refnr": "161289-1001",
+            "name": "Classic Manufacture White Gold",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 611,
+                "name": "L.U.C"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/l-u-c\/161289-1001-f3.jpg",
+            "updated": "2017-10-10"
+        },
+        {
+            "id": 29391,
+            "refnr": "278559-3002",
+            "name": "Happy Sport 36 Automatic Stainless Steel \/ Silver \/ Bracelet",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 612,
+                "name": "Imperiale"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/imperiale\/278559-3002-85.jpg",
+            "updated": "2017-10-10"
+        },
+        {
+            "id": 31634,
+            "refnr": "168566-3009",
+            "name": "Mille Miglia GTS Power Control Israel 70th Anniversary",
+            "brand": {
+                "id": 144,
+                "name": "Chopard"
+            },
+            "family": {
+                "id": 615,
+                "name": "Classic Racing"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/chopard\/classic-racing\/168566-3009-8f.png",
+            "updated": "2018-07-26"
+        }
+    ]
+}

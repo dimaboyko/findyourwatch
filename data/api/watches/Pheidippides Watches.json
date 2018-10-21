@@ -1,0 +1,20 @@
+{
+    "num_results": 1,
+    "watches": [
+        {
+            "id": 21008,
+            "refnr": "PW.PH.01.001",
+            "name": "The Porthole",
+            "brand": {
+                "id": 148,
+                "name": "Pheidippides Watches"
+            },
+            "family": {
+                "id": 614,
+                "name": "The Porthole"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/pheidippides-watches\/the-porthole\/tph1-86.jpg",
+            "updated": "2016-04-28"
+        }
+    ]
+}

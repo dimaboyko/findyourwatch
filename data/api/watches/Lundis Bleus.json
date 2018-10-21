@@ -1,0 +1,95 @@
+{
+    "num_results": 6,
+    "watches": [
+        {
+            "id": 23894,
+            "refnr": "1100-01",
+            "name": "Lundis Bleus Ref. 1100 Stainless Steel \/ Silver \/ Silver Index",
+            "brand": {
+                "id": 165,
+                "name": "Lundis Bleus"
+            },
+            "family": {
+                "id": 701,
+                "name": "1100"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/lundis-bleus\/1100\/1100-01-1a.jpg",
+            "updated": "2016-12-01"
+        },
+        {
+            "id": 23895,
+            "refnr": "1100-02",
+            "name": "Lundis Bleus Ref. 1100 Stainless Steel \/ Grey \/ Silver Index",
+            "brand": {
+                "id": 165,
+                "name": "Lundis Bleus"
+            },
+            "family": {
+                "id": 701,
+                "name": "1100"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/lundis-bleus\/1100\/1100-02-eb.jpg",
+            "updated": "2016-12-01"
+        },
+        {
+            "id": 23896,
+            "refnr": "1100-03",
+            "name": "Lundis Bleus Ref. 1100 Stainless Steel \/ Rose \/ Rose Index",
+            "brand": {
+                "id": 165,
+                "name": "Lundis Bleus"
+            },
+            "family": {
+                "id": 701,
+                "name": "1100"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/lundis-bleus\/1100\/1100-03-e.jpg",
+            "updated": "2016-12-01"
+        },
+        {
+            "id": 23897,
+            "refnr": "1100-04",
+            "name": "Lundis Bleus Ref. 1100 Stainless Steel \/ Silver \/ Rose Index",
+            "brand": {
+                "id": 165,
+                "name": "Lundis Bleus"
+            },
+            "family": {
+                "id": 701,
+                "name": "1100"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/lundis-bleus\/1100\/1100-04-2a.jpg",
+            "updated": "2016-12-01"
+        },
+        {
+            "id": 23898,
+            "refnr": "1100-05",
+            "name": "Lundis Bleus Ref. 1100 Stainless Steel \/ Grey \/ Rose Index",
+            "brand": {
+                "id": 165,
+                "name": "Lundis Bleus"
+            },
+            "family": {
+                "id": 701,
+                "name": "1100"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/lundis-bleus\/1100\/1100-05-c4.jpg",
+            "updated": "2016-12-01"
+        },
+        {
+            "id": 23899,
+            "refnr": "1100-06",
+            "name": "Lundis Bleus Ref. 1100 Stainless Steel \/ Rose \/ Silver Index",
+            "brand": {
+                "id": 165,
+                "name": "Lundis Bleus"
+            },
+            "family": {
+                "id": 701,
+                "name": "1100"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/lundis-bleus\/1100\/1100-06-aa.jpg",
+            "updated": "2016-12-01"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "num_results": 3,
+    "watches": [
+        {
+            "id": 14003,
+            "refnr": "DB16RS1",
+            "name": "DB16 Rose Gold \/ Silver ",
+            "brand": {
+                "id": 65,
+                "name": "De Bethune"
+            },
+            "family": {
+                "id": 319,
+                "name": "DB16"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/de-bethune\/db16\/db16rs1-93.jpg",
+            "updated": "2016-11-23"
+        },
+        {
+            "id": 23873,
+            "refnr": "DB16PS2",
+            "name": "DB16 Platinum \/ Silver ",
+            "brand": {
+                "id": 65,
+                "name": "De Bethune"
+            },
+            "family": {
+                "id": 319,
+                "name": "DB16"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/de-bethune\/db16\/db16ps2-a2.jpg",
+            "updated": "2016-11-23"
+        },
+        {
+            "id": 23874,
+            "refnr": "DB25SVWS1",
+            "name": " DB25 White Gold \/ Silver ",
+            "brand": {
+                "id": 65,
+                "name": "De Bethune"
+            },
+            "family": {
+                "id": 319,
+                "name": "DB16"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/de-bethune\/db16\/db25svws1-93.jpg",
+            "updated": "2016-11-23"
+        }
+    ]
+}

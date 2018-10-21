@@ -1,0 +1,20 @@
+{
+    "num_results": 1,
+    "watches": [
+        {
+            "id": 29843,
+            "refnr": "US1",
+            "name": "Uhr Schlossberg",
+            "brand": {
+                "id": 189,
+                "name": "D. Malchert"
+            },
+            "family": {
+                "id": 784,
+                "name": "Schlossberg"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/malchert-uhren\/schlossberg\/us1-99.jpg",
+            "updated": "2017-10-31"
+        }
+    ]
+}

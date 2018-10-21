@@ -1,0 +1,50 @@
+{
+    "num_results": 3,
+    "watches": [
+        {
+            "id": 24995,
+            "refnr": "1553-155-3\/40",
+            "name": "Marine Regatta Stainless Steel \/ Silver \/ Rubber",
+            "brand": {
+                "id": 160,
+                "name": "Ulysse Nardin"
+            },
+            "family": {
+                "id": 676,
+                "name": "Marine"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/ulysse-nardin\/marine\/1553-155-3-40-d1.png",
+            "updated": "2017-01-24"
+        },
+        {
+            "id": 24996,
+            "refnr": "1553-155-3\/43",
+            "name": "Marine Regatta Stainless Steel \/ Blue \/ Rubber",
+            "brand": {
+                "id": 160,
+                "name": "Ulysse Nardin"
+            },
+            "family": {
+                "id": 676,
+                "name": "Marine"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/ulysse-nardin\/marine\/1553-155-3-43-95.png",
+            "updated": "2017-01-24"
+        },
+        {
+            "id": 24997,
+            "refnr": "1553-155LE-3\/E2-ART",
+            "name": "Marine Regatta Stainless Steel \/ Artemis \/ Rubber",
+            "brand": {
+                "id": 160,
+                "name": "Ulysse Nardin"
+            },
+            "family": {
+                "id": 676,
+                "name": "Marine"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/ulysse-nardin\/marine\/1553-155le-3-e2-art-92.png",
+            "updated": "2017-01-24"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "num_results": 2,
+    "watches": [
+        {
+            "id": 18127,
+            "refnr": "100.2.00.BB1.RBA",
+            "name": "Code-R Chronograph Pink Gold",
+            "brand": {
+                "id": 137,
+                "name": "Wyler Geneve"
+            },
+            "family": {
+                "id": 545,
+                "name": "Code-R"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/wyler-geneve\/code-r\/100-2-00-bb1-rba-ce.jpg",
+            "updated": "2016-01-21"
+        },
+        {
+            "id": 18128,
+            "refnr": "100.4.00.RE1.CR",
+            "name": "Code-R Chronograph Red Dial",
+            "brand": {
+                "id": 137,
+                "name": "Wyler Geneve"
+            },
+            "family": {
+                "id": 545,
+                "name": "Code-R"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/wyler-geneve\/code-r\/100-4-00-re1-cr-20.jpg",
+            "updated": "2016-01-21"
+        }
+    ]
+}

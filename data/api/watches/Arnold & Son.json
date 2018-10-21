@@ -1,0 +1,680 @@
+{
+    "num_results": 45,
+    "watches": [
+        {
+            "id": 14178,
+            "refnr": "1TBAP.B01A.C113A",
+            "name": "TB88",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1tbap-b01a-c113a-29.jpg",
+            "updated": "2015-02-16"
+        },
+        {
+            "id": 14179,
+            "refnr": "1TBAP.S01A.C113A",
+            "name": "TB88",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1tbap-s01a-c113a-69.jpg",
+            "updated": "2015-02-16"
+        },
+        {
+            "id": 14180,
+            "refnr": "1TBAS.B01A.C113S",
+            "name": "TB88",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1tbas-b01a-c113s-f4.jpg",
+            "updated": "2015-02-16"
+        },
+        {
+            "id": 14181,
+            "refnr": "1SJAR.V01A.C112A",
+            "name": "TES",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1sjar-v01a-c112a-b7.jpg",
+            "updated": "2015-02-16"
+        },
+        {
+            "id": 14182,
+            "refnr": "1SJAR.G01A.C112A",
+            "name": "TE8",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1sjar-g01a-c112a-d5.jpg",
+            "updated": "2015-02-16"
+        },
+        {
+            "id": 14183,
+            "refnr": "1SJAW.B02A.C113A",
+            "name": "TE8",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1sjaw-b02a-c113a-59.jpg",
+            "updated": "2015-02-16"
+        },
+        {
+            "id": 14184,
+            "refnr": "1SJAP.B04A.C113A",
+            "name": "TE8 Métiers D'art I",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 347,
+                "name": "Métiers d'Art"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/metiers-d-art\/1sjap-b04a-c113a-d6.jpg",
+            "updated": "2015-02-16"
+        },
+        {
+            "id": 14185,
+            "refnr": "1SJAR.B04A.C113A",
+            "name": "TE8 Métiers d'Art II",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 347,
+                "name": "Métiers d'Art"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/metiers-d-art\/1sjar-b04a-c113a-31.jpg",
+            "updated": "2015-02-16"
+        },
+        {
+            "id": 14186,
+            "refnr": "1CTAR.U01A.C112R",
+            "name": "TEC1",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1ctar-u01a-c112r-45.jpg",
+            "updated": "2015-02-16"
+        },
+        {
+            "id": 14187,
+            "refnr": "1CTAR.G01A.C112R",
+            "name": "TEC1",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1ctar-g01a-c112r-0.jpg",
+            "updated": "2017-07-01"
+        },
+        {
+            "id": 14188,
+            "refnr": "1CTAG.S01A.C113G",
+            "name": "TEC1",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1ctags01ac113g-b1.jpg",
+            "updated": "2015-02-16"
+        },
+        {
+            "id": 14189,
+            "refnr": "1CTAG.U02A.C113G",
+            "name": "TEC1",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1ctag-u02a-c113g-c9.jpg",
+            "updated": "2015-02-16"
+        },
+        {
+            "id": 14190,
+            "refnr": "1GLAS.B01A.C122S",
+            "name": "HM Perpetual Moon",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1glas-b01a-c122s-23.jpg",
+            "updated": "2015-02-16"
+        },
+        {
+            "id": 14191,
+            "refnr": "1GLAR.I01A.C122A",
+            "name": "HM Perpetual Moon",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1glar-i01a-c122a-52.jpg",
+            "updated": "2015-02-16"
+        },
+        {
+            "id": 14192,
+            "refnr": "1GLAR.U01A.C123A",
+            "name": "HM Perpetual Moon",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1glar-u01a-c123a-96.jpg",
+            "updated": "2015-02-16"
+        },
+        {
+            "id": 14193,
+            "refnr": "1LCAP.S04A.C110A",
+            "name": "HMS1",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1lcap-s04a-c110a-e4.jpg",
+            "updated": "2017-07-01"
+        },
+        {
+            "id": 14194,
+            "refnr": "1LCAP.B01A.C111A",
+            "name": "HMS1",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/ref-1lcap-b01a-c111a-8d.jpg",
+            "updated": "2017-07-01"
+        },
+        {
+            "id": 14195,
+            "refnr": "1LCAP.B02A.C111A",
+            "name": "HMS1 Dragon",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1lcap-b02a-c111a-63.jpg",
+            "updated": "2017-07-01"
+        },
+        {
+            "id": 14196,
+            "refnr": "1LCAW.S03A.C111W",
+            "name": "HMS1",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1lcaw-s03a-c111w-cd.jpg",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14197,
+            "refnr": "1LCAP.W01A.C110A",
+            "name": "HMS1",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1lcap-w01a-c110a-bc.jpg",
+            "updated": "2015-02-16"
+        },
+        {
+            "id": 14199,
+            "refnr": "1LCAP.U02A.C110A",
+            "name": "HMS1",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1lcap-u02a-c110a-8.jpg",
+            "updated": "2015-02-16"
+        },
+        {
+            "id": 14201,
+            "refnr": "1LCAP.S10A.C110A",
+            "name": "HMS1",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1lcap-s10a-c110a-f9.jpg",
+            "updated": "2015-02-16"
+        },
+        {
+            "id": 14202,
+            "refnr": "1LCAW.S09A.C111W",
+            "name": "HMS1",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1lcaw-s09a-c111w-fb.jpg",
+            "updated": "2015-02-16"
+        },
+        {
+            "id": 14203,
+            "refnr": "1LCAS.S01A.C111S",
+            "name": "HMS1",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1lcas-s01a-c111s-9a.jpg",
+            "updated": "2015-02-16"
+        },
+        {
+            "id": 14204,
+            "refnr": "1LCAS.S02A.C111S",
+            "name": "HMS1",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1lcas-s02a-c111s-1a.jpg",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 14297,
+            "refnr": "1LCAP.S06A.C111A",
+            "name": "HMS1 Victory",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1lcap-s06a-c111a-2b.jpg",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14298,
+            "refnr": "1LCAP.S05A.C111A",
+            "name": "HMS1 Victory",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1lcap-s05a-c111a-b8.jpg",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14300,
+            "refnr": "1LCAP.S07A.C111A",
+            "name": "HMS1 Victory",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1lcap-s07a-c111a-c0.jpg",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14301,
+            "refnr": "1LCAP.B04A.C111A",
+            "name": "HM Horses",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1lcap-b04a-c111a-32.jpg",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14302,
+            "refnr": "1LCAP.W03A.C111A",
+            "name": "HM Horses",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1lcap-w03a-c111a-59.jpg",
+            "updated": "2017-07-01"
+        },
+        {
+            "id": 14303,
+            "refnr": "1LCAW.S08A.C111W",
+            "name": "HM Beagle",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1lcaw-s08a-c111w-c1.jpg",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14304,
+            "refnr": "1LCAP.B03A.C111A",
+            "name": "HM Pandas",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1lcap-b03a-c111a-e4.jpg",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14305,
+            "refnr": "LCAP.M07A.C110A",
+            "name": "HM Goats",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/lcap-m07a-c110a-2f.jpg",
+            "updated": "2017-07-01"
+        },
+        {
+            "id": 14306,
+            "refnr": "1PMMP.W01A.C114A",
+            "name": "HMS Lady",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1pmmp-w01a-c114a-99.jpg",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14307,
+            "refnr": "1PMMP.W01A.C119A",
+            "name": "HMS Lady",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1pmmp-w01a-c119a-75.jpg",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14308,
+            "refnr": "1H6AP.B06A.C60B",
+            "name": "Hornet World Timer",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1h6ap-b06a-c60b-b7.jpg",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14309,
+            "refnr": "1H6AS.B05A.C79F",
+            "name": "Hornet World Timer",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1h6as-b05a-c79f-9c.jpg",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14310,
+            "refnr": "1H6AS.O01A.C79F",
+            "name": "Hornet World Timer Skeleton",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1h6as-o01a-c79f-41.jpg",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14311,
+            "refnr": "1H6AP.D05A.C60B",
+            "name": "Hornet James Cook Set ",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1h6ap-d05a-c60b-56.jpg",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14312,
+            "refnr": "1H6AP.D06A.C60B",
+            "name": "Hornet James Cook Set ",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1h6ap-d06a-c60b-f3.jpg",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14313,
+            "refnr": "1H6AP.D07A.C60B",
+            "name": "Hornet James Cook Set ",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 343,
+                "name": "Royal Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/royal-collection\/1h6ap-d07a-c60b-1b.jpg",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14314,
+            "refnr": "1DTAR.L01A.C120A",
+            "name": "DTE",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 345,
+                "name": "Instrument Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/instrument-collection\/1dtar-l01a-c120a-e5.jpg",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14315,
+            "refnr": "1ATAR.L01A.C120A",
+            "name": "DSTB",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 345,
+                "name": "Instrument Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/instrument-collection\/1atar-l01a-c120a-c1.jpg",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14316,
+            "refnr": "1TPAR.S01A.C125A",
+            "name": "Time Pyramid",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 345,
+                "name": "Instrument Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/instrument-collection\/1tpar-s01a-c125a-7d.jpg",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14317,
+            "refnr": "1TPAS.S01A.C124S",
+            "name": "Time Pyramid",
+            "brand": {
+                "id": 79,
+                "name": "Arnold & Son"
+            },
+            "family": {
+                "id": 345,
+                "name": "Instrument Collection"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/arnold-son\/instrument-collection\/1tpas-s01a-c124s-28.jpg",
+            "updated": "2015-02-21"
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "num_results": 11,
+    "watches": [
+        {
+            "id": 25730,
+            "refnr": "RLR0250900",
+            "name": "Safari 39mm Chronometer Aged Steel \/ Black",
+            "brand": {
+                "id": 180,
+                "name": "Ralph Lauren"
+            },
+            "family": {
+                "id": 728,
+                "name": "Safari"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/ralph-lauren\/safari\/rlr0250900-99.jpg",
+            "updated": "2017-04-22"
+        },
+        {
+            "id": 25736,
+            "refnr": "RLR0250702",
+            "name": "Safari 39mm Chronometer Aged Steel \/ Khaki",
+            "brand": {
+                "id": 180,
+                "name": "Ralph Lauren"
+            },
+            "family": {
+                "id": 728,
+                "name": "Safari"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/ralph-lauren\/safari\/rlr0250702-7a.jpg",
+            "updated": "2017-04-22"
+        },
+        {
+            "id": 25737,
+            "refnr": "RLR0250703",
+            "name": "Safari 39mm Chronometer Aged Steel \/ Camo",
+            "brand": {
+                "id": 180,
+                "name": "Ralph Lauren"
+            },
+            "family": {
+                "id": 728,
+                "name": "Safari"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/ralph-lauren\/safari\/rlr0250703-36.jpg",
+            "updated": "2017-04-22"
+        },
+        {
+            "id": 25738,
+            "refnr": "RLR0220900",
+            "name": "Safari 45mm Chronometer Aged Steel \/ Black",
+            "brand": {
+                "id": 180,
+                "name": "Ralph Lauren"
+            },
+            "family": {
+                "id": 728,
+                "name": "Safari"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/ralph-lauren\/safari\/rlr0220900-6e.jpg",
+            "updated": "2017-04-22"
+        },
+        {
+            "id": 25739,
+            "refnr": "RLR0220712",
+            "name": "Safari 45mm Chronometer Aged Steel \/ Khaki",
+            "brand": {
+                "id": 180,
+                "name": "Ralph Lauren"
+            },
+            "family": {
+                "id": 728,
+                "name": "Safari"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/ralph-lauren\/safari\/rlr0220712-a3.jpg",
+            "updated": "2017-04-22"
+        },
+        {
+            "id": 25740,
+            "refnr": "RLR0220711",
+            "name": "Safari 45mm Chronometer Aged Steel \/ Camo",
+            "brand": {
+                "id": 180,
+                "name": "Ralph Lauren"
+            },
+            "family": {
+                "id": 728,
+                "name": "Safari"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/ralph-lauren\/safari\/rlr0220711-ea.jpg",
+            "updated": "2017-04-22"
+        },
+        {
+            "id": 25751,
+            "refnr": "RLR0250700",
+            "name": "Sporting 39mm Chronometer Steel \/ Black",
+            "brand": {
+                "id": 180,
+                "name": "Ralph Lauren"
+            },
+            "family": {
+                "id": 729,
+                "name": "Sporting"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/ralph-lauren\/safari\/rlr0250700-3e.jpg",
+            "updated": "2017-04-22"
+        },
+        {
+            "id": 25758,
+            "refnr": "RLR0220706",
+            "name": "Sporting 45mm Chronometer Steel \/ Black",
+            "brand": {
+                "id": 180,
+                "name": "Ralph Lauren"
+            },
+            "family": {
+                "id": 729,
+                "name": "Sporting"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/ralph-lauren\/sporting\/rlr0220706-74.jpg",
+            "updated": "2017-04-25"
+        },
+        {
+            "id": 25760,
+            "refnr": "RLR0210700",
+            "name": "Sporting 45mm World Time Steel \/ Blue",
+            "brand": {
+                "id": 180,
+                "name": "Ralph Lauren"
+            },
+            "family": {
+                "id": 729,
+                "name": "Sporting"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/ralph-lauren\/sporting\/rlr0210700-ae.jpg",
+            "updated": "2017-04-25"
+        },
+        {
+            "id": 25761,
+            "refnr": "RLR0210000",
+            "name": "Sporting 45mm World Time Steel \/ Blue \/ Bracelet",
+            "brand": {
+                "id": 180,
+                "name": "Ralph Lauren"
+            },
+            "family": {
+                "id": 729,
+                "name": "Sporting"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/ralph-lauren\/sporting\/rlr0210000-4f.jpg",
+            "updated": "2017-04-25"
+        },
+        {
+            "id": 25762,
+            "refnr": "RLR0211700",
+            "name": "Sporting 45mm World Time Rose Gold \/ Silver",
+            "brand": {
+                "id": 180,
+                "name": "Ralph Lauren"
+            },
+            "family": {
+                "id": 729,
+                "name": "Sporting"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/ralph-lauren\/sporting\/rlr0211700-48.jpg",
+            "updated": "2017-04-25"
+        }
+    ]
+}

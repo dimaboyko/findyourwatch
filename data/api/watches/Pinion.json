@@ -1,0 +1,95 @@
+{
+    "num_results": 6,
+    "watches": [
+        {
+            "id": 31014,
+            "refnr": "PU02",
+            "name": "Pure Bronze LE",
+            "brand": {
+                "id": 199,
+                "name": "Pinion"
+            },
+            "family": {
+                "id": 833,
+                "name": "Pure"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/pinion\/pure\/pu02-fb.jpg",
+            "updated": "2018-03-06"
+        },
+        {
+            "id": 31015,
+            "refnr": "PU01",
+            "name": "Pure Stainless Steel LE",
+            "brand": {
+                "id": 199,
+                "name": "Pinion"
+            },
+            "family": {
+                "id": 833,
+                "name": "Pure"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/pinion\/pure\/pu01-0.jpg",
+            "updated": "2018-03-06"
+        },
+        {
+            "id": 31016,
+            "refnr": "PU21",
+            "name": "Pure GG",
+            "brand": {
+                "id": 199,
+                "name": "Pinion"
+            },
+            "family": {
+                "id": 833,
+                "name": "Pure"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/pinion\/pure\/pu21-b5.jpg",
+            "updated": "2018-03-06"
+        },
+        {
+            "id": 31017,
+            "refnr": "PU22",
+            "name": "Pure Pro Black",
+            "brand": {
+                "id": 199,
+                "name": "Pinion"
+            },
+            "family": {
+                "id": 833,
+                "name": "Pure"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/pinion\/pure\/pu22-40.jpg",
+            "updated": "2018-03-06"
+        },
+        {
+            "id": 31018,
+            "refnr": "PU23",
+            "name": "Pure Pro Bronze",
+            "brand": {
+                "id": 199,
+                "name": "Pinion"
+            },
+            "family": {
+                "id": 833,
+                "name": "Pure"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/pinion\/pure\/pu23-ea.jpg",
+            "updated": "2018-03-06"
+        },
+        {
+            "id": 31019,
+            "refnr": "PU24",
+            "name": "Pure Pro Steel",
+            "brand": {
+                "id": 199,
+                "name": "Pinion"
+            },
+            "family": {
+                "id": 833,
+                "name": "Pure"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/pinion\/pure\/pu24-63.jpg",
+            "updated": "2018-03-06"
+        }
+    ]
+}

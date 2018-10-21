@@ -1,0 +1,20 @@
+{
+    "num_results": 1,
+    "watches": [
+        {
+            "id": 31462,
+            "refnr": "212017",
+            "name": "Asset 2.1",
+            "brand": {
+                "id": 203,
+                "name": "MW&Co"
+            },
+            "family": {
+                "id": 848,
+                "name": "Asset"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/mw-co\/asset\/212017-f8.png",
+            "updated": "2018-04-11"
+        }
+    ]
+}

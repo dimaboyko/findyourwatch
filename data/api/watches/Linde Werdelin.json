@@ -1,0 +1,215 @@
+{
+    "num_results": 14,
+    "watches": [
+        {
+            "id": 14326,
+            "refnr": "SpidoSpeed Gold",
+            "name": "SpidoSpeed",
+            "brand": {
+                "id": 85,
+                "name": "Linde Werdelin"
+            },
+            "family": {
+                "id": 362,
+                "name": "Spido"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/linde-werdelin\/spido\/spidospeed-gold-f0.png",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14327,
+            "refnr": "SpidoSpeed Carbon Green",
+            "name": "SpidoSpeed",
+            "brand": {
+                "id": 85,
+                "name": "Linde Werdelin"
+            },
+            "family": {
+                "id": 362,
+                "name": "Spido"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/linde-werdelin\/spido\/spidospeed-carbon-green-58.png",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14328,
+            "refnr": "SpidoSpeed Gold Titanium",
+            "name": "SpidoSpeed",
+            "brand": {
+                "id": 85,
+                "name": "Linde Werdelin"
+            },
+            "family": {
+                "id": 362,
+                "name": "Spido"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/linde-werdelin\/spido\/spidospeed-gold-titanium-27.png",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14329,
+            "refnr": "SpidoSpeed Black Orange",
+            "name": "SpidoSpeed",
+            "brand": {
+                "id": 85,
+                "name": "Linde Werdelin"
+            },
+            "family": {
+                "id": 362,
+                "name": "Spido"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/linde-werdelin\/spido\/spidospeed-black-orange-6.png",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14330,
+            "refnr": "SpidoSpeed Anthracite DLC",
+            "name": "SpidoSpeed",
+            "brand": {
+                "id": 85,
+                "name": "Linde Werdelin"
+            },
+            "family": {
+                "id": 362,
+                "name": "Spido"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/linde-werdelin\/spido\/spidospeed-anthracite-dlc-bd.png",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14331,
+            "refnr": "SpidoSpeed Black DLC",
+            "name": "SpidoSpeed",
+            "brand": {
+                "id": 85,
+                "name": "Linde Werdelin"
+            },
+            "family": {
+                "id": 362,
+                "name": "Spido"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/linde-werdelin\/spido\/spidospeed-black-dlc-5b.png",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14332,
+            "refnr": "SpidoSpeed Steel",
+            "name": "SpidoSpeed",
+            "brand": {
+                "id": 85,
+                "name": "Linde Werdelin"
+            },
+            "family": {
+                "id": 362,
+                "name": "Spido"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/linde-werdelin\/spido\/spidospeed-steel-fb.png",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14333,
+            "refnr": "SpidoLite Tech Gold",
+            "name": "SpidoLite",
+            "brand": {
+                "id": 85,
+                "name": "Linde Werdelin"
+            },
+            "family": {
+                "id": 362,
+                "name": "Spido"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/linde-werdelin\/spido\/spidolite-tech-gold-c2.png",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14334,
+            "refnr": "Spidolite Tech Green",
+            "name": "SpidoLite",
+            "brand": {
+                "id": 85,
+                "name": "Linde Werdelin"
+            },
+            "family": {
+                "id": 362,
+                "name": "Spido"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/linde-werdelin\/spido\/spidolite-tech-green-1b.png",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14335,
+            "refnr": "SpidoLite Black Gold",
+            "name": "SpidoLite",
+            "brand": {
+                "id": 85,
+                "name": "Linde Werdelin"
+            },
+            "family": {
+                "id": 362,
+                "name": "Spido"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/linde-werdelin\/spido\/spidolite-black-gold-82.png",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14336,
+            "refnr": "SpidoLite Titanium Red",
+            "name": "SpidoLite",
+            "brand": {
+                "id": 85,
+                "name": "Linde Werdelin"
+            },
+            "family": {
+                "id": 362,
+                "name": "Spido"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/linde-werdelin\/spido\/spidolite-titanium-red-ff.png",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14337,
+            "refnr": "SpidoLite Titanium Blue",
+            "name": "SpidoLite",
+            "brand": {
+                "id": 85,
+                "name": "Linde Werdelin"
+            },
+            "family": {
+                "id": 362,
+                "name": "Spido"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/linde-werdelin\/spido\/spidolite-titanium-blue-3b.png",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14338,
+            "refnr": "SpidoLite Anthracite DLC",
+            "name": "SpidoLite",
+            "brand": {
+                "id": 85,
+                "name": "Linde Werdelin"
+            },
+            "family": {
+                "id": 362,
+                "name": "Spido"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/linde-werdelin\/spido\/spidolite-anthracite-dlc-e4.png",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14339,
+            "refnr": "SpidoLite II Titanium",
+            "name": "SpidoLite",
+            "brand": {
+                "id": 85,
+                "name": "Linde Werdelin"
+            },
+            "family": {
+                "id": 362,
+                "name": "Spido"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/linde-werdelin\/spido\/spidolite-ii-titanium-6e.png",
+            "updated": "2015-02-21"
+        }
+    ]
+}

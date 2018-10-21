@@ -1,0 +1,4130 @@
+{
+    "num_results": 275,
+    "watches": [
+        {
+            "id": 14006,
+            "refnr": "191.032",
+            "name": "Lange 1 Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-soehne\/lange-1\/191-032-40.jpg",
+            "updated": "2016-01-16"
+        },
+        {
+            "id": 14007,
+            "refnr": "191.025",
+            "name": "Lange 1 White Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-soehne\/lange-1\/191-025-6f.jpg",
+            "updated": "2016-01-16"
+        },
+        {
+            "id": 14008,
+            "refnr": "191.021",
+            "name": "Lange 1 Yellow Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-soehne\/lange-1\/191-021-6f.jpg",
+            "updated": "2016-01-16"
+        },
+        {
+            "id": 14009,
+            "refnr": "117.032",
+            "name": "Grand Lange 1",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-soehne\/lange-1\/117-032-26.jpg",
+            "updated": "2015-05-30"
+        },
+        {
+            "id": 14010,
+            "refnr": "117.025",
+            "name": "Grand Lange 1 Platinum",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-soehne\/lange-1\/117-025-45.jpg",
+            "updated": "2017-12-27"
+        },
+        {
+            "id": 14011,
+            "refnr": "117.021",
+            "name": "Grand Lange 1",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-soehne\/lange-1\/117-02-d7.jpg",
+            "updated": "2015-05-30"
+        },
+        {
+            "id": 14012,
+            "refnr": "117.028",
+            "name": "Grand Lange 1 White Gold \/ Black",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-soehne\/lange-1\/117-028-3c.png",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 14071,
+            "refnr": "147.025",
+            "name": "Zeitwerk Minute Repeater",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 334,
+                "name": "Zeitwerk"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-soehne\/zeitwerk\/147-025-40.jpg",
+            "updated": "2015-02-12"
+        },
+        {
+            "id": 14265,
+            "refnr": "236.049",
+            "name": "1815 200th Anniversary F. A. Lange",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/236-049-5e.jpg",
+            "updated": "2017-03-31"
+        },
+        {
+            "id": 15838,
+            "refnr": "116.032",
+            "name": "Lange 1 Timezone",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/116-032-97.jpg",
+            "updated": "2015-06-10"
+        },
+        {
+            "id": 15839,
+            "refnr": "101.032",
+            "name": "Lange 1 Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/101-032-a2.jpg",
+            "updated": "2015-05-30"
+        },
+        {
+            "id": 15840,
+            "refnr": "119.026",
+            "name": "Lange 1 Moonphase Ursa Major",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/119-026-f5.jpg",
+            "updated": "2015-05-30"
+        },
+        {
+            "id": 15841,
+            "refnr": "119.032",
+            "name": "Lange 1 Moonphase Southern Cross",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/119-032-3c.jpg",
+            "updated": "2015-05-30"
+        },
+        {
+            "id": 15842,
+            "refnr": "704.032",
+            "name": "Lange 1 Tourbillon Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/704-032-4c.jpg",
+            "updated": "2015-05-30"
+        },
+        {
+            "id": 15843,
+            "refnr": "101.035",
+            "name": " Lange 1 Darth",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/101-035-e5.jpg",
+            "updated": "2015-05-30"
+        },
+        {
+            "id": 15844,
+            "refnr": "101.321",
+            "name": "Lange 1 Yellow Gold Bracelet",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/101-022-ee.jpg",
+            "updated": "2015-05-30"
+        },
+        {
+            "id": 15845,
+            "refnr": "115.046",
+            "name": "Grand  Lange 1 Blue Italia",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/115-046-8e.jpg",
+            "updated": "2015-05-30"
+        },
+        {
+            "id": 15846,
+            "refnr": "115.029",
+            "name": "Grand  Lange 1 Luminous",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/115-029-e6.jpg",
+            "updated": "2015-05-30"
+        },
+        {
+            "id": 15847,
+            "refnr": "110.031",
+            "name": "Lange 1 Soirée Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/110-031-db.jpg",
+            "updated": "2015-06-09"
+        },
+        {
+            "id": 15848,
+            "refnr": "109.032",
+            "name": "Lange 1 Moonphase Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/109-032-91.jpg",
+            "updated": "2015-06-06"
+        },
+        {
+            "id": 15850,
+            "refnr": "111.032",
+            "name": "Kleine Lange 1 Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/111-032-ef.jpg",
+            "updated": "2015-05-30"
+        },
+        {
+            "id": 15851,
+            "refnr": "101.002",
+            "name": "Lange 1 Yellow Gold Painted",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/101-002-67.jpg",
+            "updated": "2017-05-13"
+        },
+        {
+            "id": 15852,
+            "refnr": "101.021",
+            "name": " Lange 1 Yellow Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/101-021-9f.jpg",
+            "updated": "2015-05-30"
+        },
+        {
+            "id": 15853,
+            "refnr": "704.025",
+            "name": " Lange 1 Tourbillon Platinum",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/704-025-d7.jpg",
+            "updated": "2015-05-30"
+        },
+        {
+            "id": 15854,
+            "refnr": "109.025",
+            "name": "Lange 1 Moonphase Platinum",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/109-025-a5.jpg",
+            "updated": "2015-05-30"
+        },
+        {
+            "id": 15856,
+            "refnr": "116.021",
+            "name": "Lange 1 Timezone Yellow Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/116-021-f2.jpg",
+            "updated": "2015-06-10"
+        },
+        {
+            "id": 15857,
+            "refnr": "112.049",
+            "name": "Lange 1 Sincere",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/112-049-2a.jpg",
+            "updated": "2015-05-30"
+        },
+        {
+            "id": 15858,
+            "refnr": "101.025",
+            "name": " Lange 1 Platinum Stealth",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/101-025-4a.jpg",
+            "updated": "2015-05-30"
+        },
+        {
+            "id": 15859,
+            "refnr": "101.031",
+            "name": "Lange 1 Pink Gold Black",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/101-031-24.jpg",
+            "updated": "2015-05-30"
+        },
+        {
+            "id": 15860,
+            "refnr": "110.030",
+            "name": "Lange 1 Soirée White Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/110-030-4.jpg",
+            "updated": "2015-06-09"
+        },
+        {
+            "id": 15861,
+            "refnr": "101.033",
+            "name": " Lange 1 Pink Gold Grey",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/101-033-e9.jpg",
+            "updated": "2015-05-30"
+        },
+        {
+            "id": 15862,
+            "refnr": "109.021",
+            "name": "Lange 1 Moonphase Yellow Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/109-021-75.jpg",
+            "updated": "2015-06-06"
+        },
+        {
+            "id": 15863,
+            "refnr": "101.029",
+            "name": "Lange 1 Luminous",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/101-029-69.jpg",
+            "updated": "2015-05-30"
+        },
+        {
+            "id": 15864,
+            "refnr": "115.021",
+            "name": " Lange 1 Yellow Gold Yellow",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/115-021-ec.jpg",
+            "updated": "2015-05-30"
+        },
+        {
+            "id": 15865,
+            "refnr": "111.025",
+            "name": "Kleine Lange 1 Platinum",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/111-025-3b.jpg",
+            "updated": "2015-05-30"
+        },
+        {
+            "id": 15866,
+            "refnr": "115.031",
+            "name": "Grand  Lange 1 Pink Gold \/ Black & Grey",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/115-031-37.jpg",
+            "updated": "2015-05-30"
+        },
+        {
+            "id": 15867,
+            "refnr": "101.022",
+            "name": "Lange 1 Yellow Gold Painted",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/101-022-b1.jpg",
+            "updated": "2015-05-30"
+        },
+        {
+            "id": 15868,
+            "refnr": "101.027",
+            "name": "Lange 1 White Gold Blue",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/101-027-8c.jpg",
+            "updated": "2015-05-30"
+        },
+        {
+            "id": 15870,
+            "refnr": "110.041F",
+            "name": " Lange 1 Soirée Platinum",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/110-041f-29.jpg",
+            "updated": "2015-06-09"
+        },
+        {
+            "id": 15871,
+            "refnr": "101.005",
+            "name": "Lange 1 Platinum",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/101-005-1e.jpg",
+            "updated": "2017-05-13"
+        },
+        {
+            "id": 15872,
+            "refnr": "116.025",
+            "name": "Lange 1 Timezone Platinum",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/116-025-cd.jpg",
+            "updated": "2017-01-26"
+        },
+        {
+            "id": 15873,
+            "refnr": "101.026",
+            "name": "Lange 1 Stainless Steel",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/101-026-9c.jpg",
+            "updated": "2016-01-16"
+        },
+        {
+            "id": 15874,
+            "refnr": "151.025",
+            "name": "Lange 1 Platinum Bracelet",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/151-025-5b.jpg",
+            "updated": "2015-05-30"
+        },
+        {
+            "id": 15875,
+            "refnr": "101.049",
+            "name": "Lange 1 Platinum Cellini",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/101-049-e6.jpg",
+            "updated": "2015-05-30"
+        },
+        {
+            "id": 15933,
+            "refnr": "102.002",
+            "name": "Saxonia Big Date Yellow Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/102-002-e7.jpg",
+            "updated": "2015-06-17"
+        },
+        {
+            "id": 15936,
+            "refnr": "206.021",
+            "name": "1815 Yellow Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/206-021-a1.jpg",
+            "updated": "2015-12-31"
+        },
+        {
+            "id": 15938,
+            "refnr": "221.021",
+            "name": "1815 Up \/ Down Yellow Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/221-021-7e.jpg",
+            "updated": "2015-06-11"
+        },
+        {
+            "id": 15944,
+            "refnr": "302.025",
+            "name": " Langematik Anniversary Jubilee",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/langematik\/302-025-5e.jpg",
+            "updated": "2015-06-11"
+        },
+        {
+            "id": 15948,
+            "refnr": "212.050",
+            "name": "1815 Moonphase F.A. Lange Homage",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/212-050-e7.jpg",
+            "updated": "2016-01-16"
+        },
+        {
+            "id": 15951,
+            "refnr": "245.021",
+            "name": "1815 Kalenderwoche",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/245-021-93.jpg",
+            "updated": "2015-06-09"
+        },
+        {
+            "id": 15955,
+            "refnr": "235.026",
+            "name": "1815 38.5 White Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/235-026-aa.jpg",
+            "updated": "2015-06-06"
+        },
+        {
+            "id": 15956,
+            "refnr": "235.032",
+            "name": "1815 38.5 Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/235-032-55.jpg",
+            "updated": "2015-06-06"
+        },
+        {
+            "id": 15957,
+            "refnr": "701.001",
+            "name": "Tourbillon Pour le Mérite",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 446,
+                "name": "Tourbillon"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/tourbillon\/701-001-79.jpg",
+            "updated": "2015-06-06"
+        },
+        {
+            "id": 15959,
+            "refnr": "701.005",
+            "name": "Tourbillon Pour le Mérite Platinum",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 446,
+                "name": "Tourbillon"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/tourbillon\/701-005-13.jpg",
+            "updated": "2016-01-16"
+        },
+        {
+            "id": 15962,
+            "refnr": "751.005",
+            "name": "Tourbillon Pour le Mérite Platinum \/ Bracelet",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 446,
+                "name": "Tourbillon"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/tourbillon\/751-005-3a.jpg",
+            "updated": "2015-06-06"
+        },
+        {
+            "id": 15964,
+            "refnr": "330.026",
+            "name": "Saxonia Annual Calendar White Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/330-026-f2.jpg",
+            "updated": "2015-06-10"
+        },
+        {
+            "id": 15965,
+            "refnr": "234.021",
+            "name": "1815  Up\/Down Yellow Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/234-021-f3.jpg",
+            "updated": "2015-06-06"
+        },
+        {
+            "id": 15966,
+            "refnr": "234.026",
+            "name": "1815 Up\/Down White Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/234-026-e6.jpg",
+            "updated": "2016-12-19"
+        },
+        {
+            "id": 15967,
+            "refnr": "234.032",
+            "name": "1815 Up\/Down Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/234-032-dd.jpg",
+            "updated": "2015-06-06"
+        },
+        {
+            "id": 15968,
+            "refnr": "401.026",
+            "name": "1815 Chronograph white Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/401-026-2c.jpg",
+            "updated": "2015-06-11"
+        },
+        {
+            "id": 15970,
+            "refnr": "402.026",
+            "name": "1815 Chronograph White Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/402-026-b6.jpg",
+            "updated": "2017-02-27"
+        },
+        {
+            "id": 15971,
+            "refnr": "402.032",
+            "name": "1815 Chronograph Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/402-032-d2.jpg",
+            "updated": "2015-06-06"
+        },
+        {
+            "id": 15972,
+            "refnr": "730.025",
+            "name": "1815 Tourbillon Platinum",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/730-025-51.jpg",
+            "updated": "2015-06-06"
+        },
+        {
+            "id": 15973,
+            "refnr": "730.032",
+            "name": "1815 Tourbillon Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/730-032-9f.jpg",
+            "updated": "2015-06-06"
+        },
+        {
+            "id": 15974,
+            "refnr": "233.021",
+            "name": "1815 40 Yellow Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/233-021-37.jpg",
+            "updated": "2017-01-26"
+        },
+        {
+            "id": 15976,
+            "refnr": "233.032",
+            "name": "1815 40 Pink Gold \/ Silver",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/233-032-63.jpg",
+            "updated": "2017-01-26"
+        },
+        {
+            "id": 15977,
+            "refnr": "323.046",
+            "name": "1815 Cuvette Oeding-Erdel",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/323-046-c1.jpg",
+            "updated": "2015-06-09"
+        },
+        {
+            "id": 15979,
+            "refnr": "232.026",
+            "name": "Richard Lange White Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 447,
+                "name": "Richard Lange"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/richard-lange\/232-026-8c.jpg",
+            "updated": "2015-06-10"
+        },
+        {
+            "id": 15980,
+            "refnr": "260.025",
+            "name": "Richard Lange Pour le Mérite Platinum",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 447,
+                "name": "Richard Lange"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/richard-lange\/260-025-79.jpg",
+            "updated": "2016-09-27"
+        },
+        {
+            "id": 15981,
+            "refnr": "260.032",
+            "name": "Richard Lange Pour le Mérite Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 447,
+                "name": "Richard Lange"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/richard-lange\/260-032-4f.jpg",
+            "updated": "2015-06-10"
+        },
+        {
+            "id": 15985,
+            "refnr": "702.025",
+            "name": "Tourbograph Pour le Mérite Platinum \/ Silver",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 446,
+                "name": "Tourbillon"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/tourbillon\/702-025-ff.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 15986,
+            "refnr": "712.050",
+            "name": "Tourbograph Pour le Mérite F.A. Lange",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 446,
+                "name": "Tourbillon"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/tourbillon\/712-050-39.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 15987,
+            "refnr": "882.025",
+            "name": "Tourbograph Pour le Mérite Dubail",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 446,
+                "name": "Tourbillon"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/tourbillon\/882-025-7c.jpg",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 15989,
+            "refnr": "421.025",
+            "name": "1815 Rattrapante Perpetual Calendar Platinum",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/421-025-8d.jpg",
+            "updated": "2015-06-06"
+        },
+        {
+            "id": 15990,
+            "refnr": "720.048",
+            "name": " Tourbillon Perpetual Calendar Handwerkskunst",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/720-048-2f.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 15991,
+            "refnr": "760.032",
+            "name": "Richard Lange Tourbillon Pour le Mérite",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 447,
+                "name": "Richard Lange"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/richard-lange\/760-032f-66.jpg",
+            "updated": "2015-06-10"
+        },
+        {
+            "id": 15993,
+            "refnr": "180.026",
+            "name": "Richard Lange Perpetual Calendar Terraluna White Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 447,
+                "name": "Richard Lange"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/richard-lange\/180-026-1b.jpg",
+            "updated": "2015-06-19"
+        },
+        {
+            "id": 15994,
+            "refnr": "722.050",
+            "name": "Lange 1 Tourbillon Homage to F.A. Lange",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/722-050-78.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 15995,
+            "refnr": "761.050",
+            "name": "Richard Lange Tourbillion Pour le Mérite Handwerkskunst",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 447,
+                "name": "Richard Lange"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/richard-lange\/761-050-a2.jpg",
+            "updated": "2015-06-10"
+        },
+        {
+            "id": 15997,
+            "refnr": "308.031",
+            "name": "Langematik Big Date Pink Gold \/ Black",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/langematik\/308-031-b6.jpg",
+            "updated": "2015-06-12"
+        },
+        {
+            "id": 15998,
+            "refnr": "308.032",
+            "name": "Langematik Big Date Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/langematik\/308-032-d0.jpg",
+            "updated": "2015-06-12"
+        },
+        {
+            "id": 16001,
+            "refnr": "310.047",
+            "name": "Langematik Perpetual Sincere",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/langematik\/310-047-71.jpg",
+            "updated": "2015-06-11"
+        },
+        {
+            "id": 16002,
+            "refnr": "109.033X",
+            "name": "Lange 1 Moonphase Dresden Set",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/109-033x-b4.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16003,
+            "refnr": "310.032",
+            "name": "Langematik Perpetual Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/langematik\/310-032e-0.jpg",
+            "updated": "2015-06-10"
+        },
+        {
+            "id": 16004,
+            "refnr": "310.232",
+            "name": "Langematik Perpetual Pink Gold Bracelet",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/langematik\/310-232e-7d.jpg",
+            "updated": "2015-06-12"
+        },
+        {
+            "id": 16005,
+            "refnr": "403.031 ALS",
+            "name": "Datograph Rose Gold \/ Black",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/datograph\/403-031-12.jpg",
+            "updated": "2015-07-16"
+        },
+        {
+            "id": 16006,
+            "refnr": "403.032",
+            "name": "Datograph Rose Gold \/ Silver",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/403-032-b1.jpg",
+            "updated": "2015-06-09"
+        },
+        {
+            "id": 16007,
+            "refnr": "403.432",
+            "name": "Datograph Rose Gold \/ Silver \/ Bracelet",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/datograph\/403-432-c8.jpg",
+            "updated": "2015-06-09"
+        },
+        {
+            "id": 16010,
+            "refnr": "309.031",
+            "name": "Grand Langematik Pink Gold \/ Black",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/grand-langematik\/309-031-1f.jpg",
+            "updated": "2015-06-12"
+        },
+        {
+            "id": 16011,
+            "refnr": "405.031",
+            "name": "Datograph Up\/Down Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/405-031-18.jpg",
+            "updated": "2015-06-10"
+        },
+        {
+            "id": 16012,
+            "refnr": "410.032",
+            "name": "Datograph Perpetual Rose Gold \/ Silver",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/410-032-e-8.jpg",
+            "updated": "2015-06-10"
+        },
+        {
+            "id": 16015,
+            "refnr": "835.037",
+            "name": "Kleine Saxonia Pink Gold ",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/835-037-9a.jpg",
+            "updated": "2016-01-16"
+        },
+        {
+            "id": 16016,
+            "refnr": "219.032",
+            "name": "Saxonia 35 Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/219-032-53.jpg",
+            "updated": "2017-09-19"
+        },
+        {
+            "id": 16020,
+            "refnr": "231.031",
+            "name": "1815 Moonphase Emil Lange Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/231-031-24.jpg",
+            "updated": "2017-01-26"
+        },
+        {
+            "id": 16022,
+            "refnr": "111.046",
+            "name": "Kleine Lange 1 Floral set",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/111-046-3b.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16023,
+            "refnr": "112.046",
+            "name": "Lange 1 Floral",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/112-046-ee.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16024,
+            "refnr": "811.064",
+            "name": "Kleine Lange 1 20th Anniversary Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/811-064-e6.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16025,
+            "refnr": "811.065",
+            "name": "Kleine Lange 1 Pink Gold Black",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/811-065-3c.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16027,
+            "refnr": "813.043",
+            "name": "Kleine Lange 1 Soirée Pink Gold \/ Black MOP",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/813-043-a9.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16028,
+            "refnr": "813.047",
+            "name": "Kleine Lange 1 Soire Pink Gold \/ MOP",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/813-047-7f.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16029,
+            "refnr": "107.031",
+            "name": "Cabaret Pink Gold Black \/ Silver",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 452,
+                "name": "Cabaret"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/cabaret\/107-031-c6.jpg",
+            "updated": "2015-06-12"
+        },
+        {
+            "id": 16030,
+            "refnr": "107.032",
+            "name": "Cabaret Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 452,
+                "name": "Cabaret"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/cabaret\/107-032-ca.jpg",
+            "updated": "2015-06-12"
+        },
+        {
+            "id": 16031,
+            "refnr": "118.032",
+            "name": "Cabaret Moonphase",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 452,
+                "name": "Cabaret"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/cabaret\/118-032-f9.jpg",
+            "updated": "2015-06-12"
+        },
+        {
+            "id": 16042,
+            "refnr": "216.032",
+            "name": "Saxonia",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/216-032-15.jpg",
+            "updated": "2015-09-30"
+        },
+        {
+            "id": 16043,
+            "refnr": "308.047",
+            "name": "Saxonia Automatic Big Date",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/308-047-d.jpg",
+            "updated": "2015-06-06"
+        },
+        {
+            "id": 16044,
+            "refnr": "315.032",
+            "name": "Saxonia Automatik Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/315-032-1d.jpg",
+            "updated": "2015-06-19"
+        },
+        {
+            "id": 16049,
+            "refnr": "842.032",
+            "name": " Saxonia Automatik Pink Gold \/ Diamond",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/842-032-dd.jpg",
+            "updated": "2016-01-16"
+        },
+        {
+            "id": 16050,
+            "refnr": "223.032",
+            "name": "1815 Up \/ Down Walter Lange",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/223-032-fb.jpg",
+            "updated": "2015-06-11"
+        },
+        {
+            "id": 16053,
+            "refnr": "101.047",
+            "name": "Lange 1 Leon Martens Maastricht",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/101-047-15.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16054,
+            "refnr": "101.064",
+            "name": "Lange 1 20th Anniversary Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/101-064-ca.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16055,
+            "refnr": "101.065",
+            "name": "Lange 1 20th Anniversary Pink Gold Black",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/101-065-7.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16062,
+            "refnr": "380.032",
+            "name": "Saxonia Automatik Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/380-032-ff.jpg",
+            "updated": "2016-01-16"
+        },
+        {
+            "id": 16063,
+            "refnr": "380.033",
+            "name": "Saxonia Automatik Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/380-033-a8.jpg",
+            "updated": "2016-07-01"
+        },
+        {
+            "id": 16064,
+            "refnr": "386.032",
+            "name": "Saxonia Dual Time Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/386-032-9b.jpg",
+            "updated": "2015-06-06"
+        },
+        {
+            "id": 16065,
+            "refnr": "701.011",
+            "name": "Tourbillon Pour le Mérite Pink Gold \/ Black",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 446,
+                "name": "Tourbillon"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/tourbillon\/701-011-cd.jpg",
+            "updated": "2015-06-06"
+        },
+        {
+            "id": 16066,
+            "refnr": "330.032",
+            "name": "Saxonia Annual Calendar Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/330-032-df.jpg",
+            "updated": "2015-06-10"
+        },
+        {
+            "id": 16067,
+            "refnr": "703.032",
+            "name": "Cabaret Tourbillon Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 452,
+                "name": "Cabaret"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/cabaret\/703-032f-6e.jpg",
+            "updated": "2015-06-12"
+        },
+        {
+            "id": 16068,
+            "refnr": "320.032",
+            "name": "Lange 1 Daymatic Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/320-032-2b.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16069,
+            "refnr": "401.031",
+            "name": "1815 Chronograph Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/401-031-4a.jpg",
+            "updated": "2015-06-10"
+        },
+        {
+            "id": 16071,
+            "refnr": "211.032",
+            "name": "Saxonia Thin Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/211-032-c7.jpg",
+            "updated": "2015-06-06"
+        },
+        {
+            "id": 16072,
+            "refnr": "385.032",
+            "name": "Saxonia Dual Time",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/385-032-cb.jpg",
+            "updated": "2016-01-16"
+        },
+        {
+            "id": 16073,
+            "refnr": "232.032",
+            "name": "Richard Lange Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 447,
+                "name": "Richard Lange"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/richard-lange\/232-032-63.jpg",
+            "updated": "2015-06-10"
+        },
+        {
+            "id": 16074,
+            "refnr": "250.032",
+            "name": "Richard Lange Referenzuhr",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 447,
+                "name": "Richard Lange"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/richard-lange\/250-032-3f.jpg",
+            "updated": "2016-01-16"
+        },
+        {
+            "id": 16077,
+            "refnr": "139.032",
+            "name": "Grand Lange 1 Moonphase Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/grand-lange-1\/139-032-dc.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16078,
+            "refnr": "115.032",
+            "name": "Grand Lange 1 Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/grand-lange-1\/115-032-4f.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16085,
+            "refnr": "421.032",
+            "name": "1815 Rattrapante Perpetual Calendar Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/421-032-34.jpg",
+            "updated": "2015-06-06"
+        },
+        {
+            "id": 16090,
+            "refnr": "116.032M",
+            "name": "Lange 1 Timezone Leon Martens Maastricht",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/116-032m-b2.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16091,
+            "refnr": "720.032",
+            "name": "Lange 1 Tourbillon Perpetual Calendar Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/720-032fe-6b.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16092,
+            "refnr": "404.032",
+            "name": "Double Split Pink Gold \/ Silver",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/double-split\/404-032-88.jpg",
+            "updated": "2015-06-10"
+        },
+        {
+            "id": 16093,
+            "refnr": "404.047",
+            "name": "Double Split Sincere Pink",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/double-split\/404-047-99.jpg",
+            "updated": "2015-06-09"
+        },
+        {
+            "id": 16094,
+            "refnr": "180.032",
+            "name": "Richard Lange Perpetual Calendar Terraluna Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 447,
+                "name": "Richard Lange"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/richard-lange\/180-032-13.jpg",
+            "updated": "2015-06-19"
+        },
+        {
+            "id": 16095,
+            "refnr": "130.032",
+            "name": "Lange 31 Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/130-032-33.jpg",
+            "updated": "2015-06-10"
+        },
+        {
+            "id": 16096,
+            "refnr": "912.032",
+            "name": "1815 Grand Complication Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/912-032-cc.jpg",
+            "updated": "2015-06-06"
+        },
+        {
+            "id": 16099,
+            "refnr": "301.027",
+            "name": "Langematik White Gold \/ Black",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/langematik\/301-027-17.jpg",
+            "updated": "2015-06-12"
+        },
+        {
+            "id": 16100,
+            "refnr": "351.025",
+            "name": "Langematik Platinum ",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/langematik\/351-025-51.jpg",
+            "updated": "2017-07-01"
+        },
+        {
+            "id": 16103,
+            "refnr": "308.027",
+            "name": "Langematik  Big Date",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/langematik\/308-027-53.jpg",
+            "updated": "2017-07-01"
+        },
+        {
+            "id": 16107,
+            "refnr": "101.039",
+            "name": "Lange 1 White Gold \/ Silver",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/101-039-f5.jpg",
+            "updated": "2016-01-16"
+        },
+        {
+            "id": 16111,
+            "refnr": "310.026",
+            "name": "Langematik Perpetual White Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/langematik\/310-026-c9.jpg",
+            "updated": "2015-06-10"
+        },
+        {
+            "id": 16112,
+            "refnr": "310.025",
+            "name": "Langematik Perpetual Platinum",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/langematik\/310-025-43.jpg",
+            "updated": "2017-07-01"
+        },
+        {
+            "id": 16113,
+            "refnr": "310.225",
+            "name": "Langematik Perpetual Platinum Bracelet",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/langematik\/310-225-29.jpg",
+            "updated": "2017-07-01"
+        },
+        {
+            "id": 16114,
+            "refnr": "403.035",
+            "name": "Datograph Platinum \/ Black",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/datograph\/403-035-15.jpg",
+            "updated": "2015-06-09"
+        },
+        {
+            "id": 16115,
+            "refnr": "403.435",
+            "name": "Datograph Platinum \/ Black ? Bracelet",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/datograph\/403-435-55.jpg",
+            "updated": "2015-06-09"
+        },
+        {
+            "id": 16121,
+            "refnr": "309.025",
+            "name": "Grand Langematik Platinum",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/grand-langematik\/309-025-f4.jpg",
+            "updated": "2017-07-01"
+        },
+        {
+            "id": 16122,
+            "refnr": "117.035",
+            "name": "Grand Lange 1 Lumen",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/grand-lange-1\/117-035-26.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16123,
+            "refnr": "405.035",
+            "name": "Datograph Up\/Down Platinum",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/405-035-b7.jpg",
+            "updated": "2015-06-10"
+        },
+        {
+            "id": 16124,
+            "refnr": "410.025",
+            "name": "Datograph Perpetual Platinum \/ Silver",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/datograph\/410-025-b8.jpg",
+            "updated": "2017-07-01"
+        },
+        {
+            "id": 16125,
+            "refnr": "410.030",
+            "name": "Datograph Perpetual White Gold \/ Grey",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/410-030-d5.jpg",
+            "updated": "2015-06-17"
+        },
+        {
+            "id": 16126,
+            "refnr": "410.038",
+            "name": "Datograph Perpetual White Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/410-038-88.jpg",
+            "updated": "2015-06-10"
+        },
+        {
+            "id": 16127,
+            "refnr": "410.425",
+            "name": "Datograph Perpetual Platinum \/ Silver \/ Bracelet",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/datograph\/410-425-7f.jpg",
+            "updated": "2017-07-01"
+        },
+        {
+            "id": 16128,
+            "refnr": "410.430",
+            "name": "Perpetual",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/410-430-7d.png",
+            "updated": "2015-06-17"
+        },
+        {
+            "id": 16129,
+            "refnr": "115.028",
+            "name": "Grand Lange 1 Luminous White Gold \/ Black",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/115-028-1d.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16131,
+            "refnr": "403.025X",
+            "name": "Datograph Pisa",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/403-025x-fa.jpg",
+            "updated": "2017-07-01"
+        },
+        {
+            "id": 16168,
+            "refnr": "219.026",
+            "name": "Saxonia 35 White Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/219-026-57.jpg",
+            "updated": "2017-09-19"
+        },
+        {
+            "id": 16169,
+            "refnr": "878.029",
+            "name": "Saxonia White Gold \/ Diamond",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/878-029-55.jpg",
+            "updated": "2015-06-06"
+        },
+        {
+            "id": 16170,
+            "refnr": "878.038",
+            "name": "Saxonia White Gold \/ Diamond \/ Brown",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/878-038-5d.jpg",
+            "updated": "2015-06-06"
+        },
+        {
+            "id": 16172,
+            "refnr": "206.029",
+            "name": "1815 35.9 White Gold Black",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/206-029-1d.jpg",
+            "updated": "2015-06-11"
+        },
+        {
+            "id": 16176,
+            "refnr": "811.061",
+            "name": "Kleine Lange 1 20th Anniversary Platinum",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/811-061-8e.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16177,
+            "refnr": "811.062",
+            "name": "Kleine Lange 1 20th Anniversary Platinum Black",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/811-062-12.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16178,
+            "refnr": "811.063",
+            "name": "Kleine Lange 1 20th Anniversary White Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/811-063-a7.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16180,
+            "refnr": "813.044",
+            "name": "Kleine Lange 1 Soirée White Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/813-044-87.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16196,
+            "refnr": "711.035",
+            "name": "Tourbillon Pour le Mérite Platinum \/ Black",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 446,
+                "name": "Tourbillon"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/tourbillon\/711-035-58.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16204,
+            "refnr": "216.026",
+            "name": "Saxonia",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/216-026-7e.jpg",
+            "updated": "2015-09-30"
+        },
+        {
+            "id": 16208,
+            "refnr": "842.026",
+            "name": "Saxonia Automatik White Gold \/ Diamond",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/842-026-2e.jpg",
+            "updated": "2016-01-16"
+        },
+        {
+            "id": 16211,
+            "refnr": "812.029",
+            "name": "Grande Arkade Blue Diamond",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 443,
+                "name": "Arkade"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/arkade\/812-029-be.jpg",
+            "updated": "2015-06-09"
+        },
+        {
+            "id": 16216,
+            "refnr": "101.061",
+            "name": "Lange 1 20th Anniversary Platinum",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/101-061-a8.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16217,
+            "refnr": "101.062",
+            "name": "Lange 1 20th Anniversary Platinum",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/101-062-94.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16218,
+            "refnr": "101.063",
+            "name": "Lange 1 20th Anniversary White Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/101-063-98.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16228,
+            "refnr": "160.029",
+            "name": "Lange 1 White Gold MOP \/ Bracelet",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/160-029-13.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16229,
+            "refnr": "330.025",
+            "name": "Saxonia Annual Calendar Platinum",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/330-025-b9.jpg",
+            "updated": "2015-06-10"
+        },
+        {
+            "id": 16230,
+            "refnr": "380.026",
+            "name": "Saxonia Automatik White Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/380-026-ff.jpg",
+            "updated": "2016-01-16"
+        },
+        {
+            "id": 16231,
+            "refnr": "380.027",
+            "name": "Saxonia Automatik White Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/380-027-a6.jpg",
+            "updated": "2015-06-06"
+        },
+        {
+            "id": 16232,
+            "refnr": "386.026",
+            "name": "Saxonia Dual Time White Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/386-026-d9.jpg",
+            "updated": "2015-06-06"
+        },
+        {
+            "id": 16233,
+            "refnr": "701.007",
+            "name": "Tourbillon  Pour le Mérite White Gold Blue",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 446,
+                "name": "Tourbillon"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/tourbillon\/701-007-ee.jpg",
+            "updated": "2015-06-13"
+        },
+        {
+            "id": 16234,
+            "refnr": "701.028",
+            "name": "Tourbillon Pour le Mérite White Gold \/ Black",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 446,
+                "name": "Tourbillon"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/tourbillon\/701-028-aa.jpg",
+            "updated": "2016-01-16"
+        },
+        {
+            "id": 16236,
+            "refnr": "704.048",
+            "name": "Lange 1 Tourbillon Handwerkskunst",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/704-048-ed.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16237,
+            "refnr": "703.025",
+            "name": "Cabaret Tourbillon Platinum",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 452,
+                "name": "Cabaret"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/cabaret\/703-025f-39.jpg",
+            "updated": "2017-07-01"
+        },
+        {
+            "id": 16239,
+            "refnr": "320.025",
+            "name": "Lange 1 Daymatic Platinum",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/320-025-8e.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16240,
+            "refnr": "823.029",
+            "name": "1815 Chronograph Diamond \/ MOP",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/823-029-13.jpg",
+            "updated": "2015-06-09"
+        },
+        {
+            "id": 16241,
+            "refnr": "823.042",
+            "name": "1815 Chronograph Diamond \/ MOP blue",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/823-042-87.jpg",
+            "updated": "2015-10-05"
+        },
+        {
+            "id": 16242,
+            "refnr": "211.026",
+            "name": "Saxonia Thin White Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/211-026-76.jpg",
+            "updated": "2015-06-06"
+        },
+        {
+            "id": 16243,
+            "refnr": "233.025",
+            "name": "1815 40 Platinum \/ Silver",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/233-025-4a.jpg",
+            "updated": "2017-01-26"
+        },
+        {
+            "id": 16244,
+            "refnr": "385.026",
+            "name": "Saxonia Dual Time",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/385-026-85.jpg",
+            "updated": "2016-01-16"
+        },
+        {
+            "id": 16245,
+            "refnr": "232.025",
+            "name": "Richard Lange Platinum",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 447,
+                "name": "Richard Lange"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/richard-lange\/232-025-fe.jpg",
+            "updated": "2017-07-01"
+        },
+        {
+            "id": 16246,
+            "refnr": "250.025",
+            "name": "Richard Lange Referenzuhr Platinum",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 447,
+                "name": "Richard Lange"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/richard-lange\/250-025-be.jpg",
+            "updated": "2017-07-01"
+        },
+        {
+            "id": 16249,
+            "refnr": "139.025",
+            "name": "Grand Lange 1 Moonphase Platinum",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/139-025-18.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16254,
+            "refnr": "116.039",
+            "name": "Lange 1 Timezone Luminous",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/116-039-13.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16256,
+            "refnr": "116.049",
+            "name": "Lange 1 Timezone Concorso",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/116-049-9e.jpg",
+            "updated": "2016-01-16"
+        },
+        {
+            "id": 16259,
+            "refnr": "720.025",
+            "name": "Lange 1 Tourbillon Perpetual Calendar Platinum",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/720-025-f4.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16261,
+            "refnr": "116.025B",
+            "name": "Lange 1 Timezone Sincere Singapore",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/116-025b-ab.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16263,
+            "refnr": "760.025",
+            "name": "Richard Lange Tourbillon Pour le Mérite Platinum",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 447,
+                "name": "Richard Lange"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/richard-lange\/760-025-8a.jpg",
+            "updated": "2017-07-01"
+        },
+        {
+            "id": 16264,
+            "refnr": "760.026",
+            "name": "Richard Lange Tourbillon Pour le Mérite White Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 447,
+                "name": "Richard Lange"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/richard-lange\/760-026-fc.jpg",
+            "updated": "2015-06-11"
+        },
+        {
+            "id": 16265,
+            "refnr": "404.035",
+            "name": "Double Split Platinum",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/double-split\/404-035-ad.jpg",
+            "updated": "2015-06-09"
+        },
+        {
+            "id": 16266,
+            "refnr": "404.036",
+            "name": "Double Split Sincere",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/double-split\/404-036-bd.jpg",
+            "updated": "2015-06-09"
+        },
+        {
+            "id": 16267,
+            "refnr": "130.025",
+            "name": "Lange 31 Platinum \/ Silver",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/130-025-aa.jpg",
+            "updated": "2017-07-01"
+        },
+        {
+            "id": 16281,
+            "refnr": "102.001",
+            "name": "Saxonia Yellow Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/102-001-4b.jpg",
+            "updated": "2015-06-05"
+        },
+        {
+            "id": 16282,
+            "refnr": "105.021",
+            "name": "Saxonia Yellow Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/105-021-8c.jpg",
+            "updated": "2015-06-05"
+        },
+        {
+            "id": 16296,
+            "refnr": "216.021",
+            "name": "Saxonia",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/216-021-f3.jpg",
+            "updated": "2017-05-02"
+        },
+        {
+            "id": 16308,
+            "refnr": "320.021",
+            "name": "Lange 1 Daymatic Yellow Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/320-021-6c.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16309,
+            "refnr": "232.021",
+            "name": "Richard Lange Yellow Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 447,
+                "name": "Richard Lange"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/richard-lange\/232-021-68.jpg",
+            "updated": "2015-06-10"
+        },
+        {
+            "id": 16310,
+            "refnr": "139.021",
+            "name": "Grand Lange 1 Moonphase Yellow Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/139-021-fa.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16311,
+            "refnr": "115.022",
+            "name": "Grand Lange 1 Yellow Gold \/ Champagne",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/grand-lange-1\/115-022-a6.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16316,
+            "refnr": "404.048",
+            "name": "Double Split Japan",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/double-split\/404-048-e5.jpg",
+            "updated": "2015-06-12"
+        },
+        {
+            "id": 16317,
+            "refnr": "301.021",
+            "name": "Langematik Yellow Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/langematik\/301-021-1e.jpg",
+            "updated": "2017-05-02"
+        },
+        {
+            "id": 16319,
+            "refnr": "308.021",
+            "name": "Langematik Big Date Yellow Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/langematik\/308-021-28.jpg",
+            "updated": "2017-05-02"
+        },
+        {
+            "id": 16324,
+            "refnr": "310.021",
+            "name": "Langematik Perpetual Yellow Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/langematik\/310-021-c7.jpg",
+            "updated": "2015-06-10"
+        },
+        {
+            "id": 16325,
+            "refnr": "310.221",
+            "name": "Langematik Perpetual Yellow Gold Bracelet",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/langematik\/310-221-6c.jpg",
+            "updated": "2015-06-10"
+        },
+        {
+            "id": 16326,
+            "refnr": "403.041",
+            "name": "Datograph Yellow Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/403-041-11.jpg",
+            "updated": "2015-06-10"
+        },
+        {
+            "id": 16327,
+            "refnr": "309.021",
+            "name": "Grand Langematik Yellow Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/grand-langematik\/309-021-5a.jpg",
+            "updated": "2015-06-12"
+        },
+        {
+            "id": 16328,
+            "refnr": "112.021",
+            "name": "Lange 1A Gold Guilloche",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1a\/112-021-0.jpg",
+            "updated": "2017-12-28"
+        },
+        {
+            "id": 16329,
+            "refnr": "140.021",
+            "name": "Zeitwerk Yellow Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 334,
+                "name": "Zeitwerk"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/zeitwerk\/140-021-c8.jpg",
+            "updated": "2015-06-17"
+        },
+        {
+            "id": 16330,
+            "refnr": "140.025",
+            "name": "Zeitwerk Platinum",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 334,
+                "name": "Zeitwerk"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/zeitwerk\/140-025-64.jpg",
+            "updated": "2017-07-01"
+        },
+        {
+            "id": 16331,
+            "refnr": "140.029",
+            "name": "Zeitwerk White Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 334,
+                "name": "Zeitwerk"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/zeitwerk\/140-029-3d.jpg",
+            "updated": "2015-06-17"
+        },
+        {
+            "id": 16332,
+            "refnr": "140.032",
+            "name": "Zeitwerk Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 334,
+                "name": "Zeitwerk"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/zeitwerk\/140-032-b4.jpg",
+            "updated": "2015-06-17"
+        },
+        {
+            "id": 16333,
+            "refnr": "140.035",
+            "name": "Zeitwerk  Luminous \/ Phantom",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 334,
+                "name": "Zeitwerk"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/zeitwerk\/140-035-77.jpg",
+            "updated": "2015-06-09"
+        },
+        {
+            "id": 16334,
+            "refnr": "140.048",
+            "name": "Zeitwerk Handwerkskunst",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 334,
+                "name": "Zeitwerk"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/zeitwerk\/140-048-87.jpg",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 16335,
+            "refnr": "140.049",
+            "name": "Zeitwerk Duncan Wang \/ Kidz Horizon",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 334,
+                "name": "Zeitwerk"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/zeitwerk\/140-049f-61.png",
+            "updated": "2015-06-17"
+        },
+        {
+            "id": 16336,
+            "refnr": "404.035X",
+            "name": "Double Split Stainless Steel",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/double-split\/404-035x-c6.jpg",
+            "updated": "2015-06-12"
+        },
+        {
+            "id": 16337,
+            "refnr": "145.025",
+            "name": "Zeitwerk Striking Time Platinum",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 334,
+                "name": "Zeitwerk"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/zeitwerk\/145-025-55.jpg",
+            "updated": "2015-06-17"
+        },
+        {
+            "id": 16338,
+            "refnr": "145.029",
+            "name": "Zeitwerk Striking Time White Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 334,
+                "name": "Zeitwerk"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/zeitwerk\/145-029-74.jpg",
+            "updated": "2015-06-17"
+        },
+        {
+            "id": 16339,
+            "refnr": "145.032",
+            "name": "Zeitwerk Striking Time Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 334,
+                "name": "Zeitwerk"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/zeitwerk\/145-032-de.jpg",
+            "updated": "2015-06-17"
+        },
+        {
+            "id": 16723,
+            "refnr": "410.026",
+            "name": "1815 Chronograph Boutique Edition Pulsometer",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/410-026-f7.jpg",
+            "updated": "2015-09-17"
+        },
+        {
+            "id": 16917,
+            "refnr": "236.050",
+            "name": "1815 200th Anniversary F. A. Lange",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/236-050-d4.jpg",
+            "updated": "2015-09-30"
+        },
+        {
+            "id": 16918,
+            "refnr": "216.033",
+            "name": "Saxonia Boutique Edition",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/216-033-f3.jpg",
+            "updated": "2015-09-30"
+        },
+        {
+            "id": 16919,
+            "refnr": "216.027",
+            "name": "Saxonia Boutique Edition",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/216-027-10.jpg",
+            "updated": "2015-09-30"
+        },
+        {
+            "id": 17747,
+            "refnr": "730-048",
+            "name": "1815 Tourbillon  Handwerkskunst",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/730-048-ce.jpg",
+            "updated": "2017-07-01"
+        },
+        {
+            "id": 18009,
+            "refnr": "113.043",
+            "name": "Kleine Lange 1 White Gold Blue Mother of Pearl",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/113-043-64.jpg",
+            "updated": "2016-01-08"
+        },
+        {
+            "id": 18010,
+            "refnr": "113.041",
+            "name": "Kleine Lange 1 Pink Gold Blue Mother of Pearl",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/113-041-f0.jpg",
+            "updated": "2016-01-08"
+        },
+        {
+            "id": 18105,
+            "refnr": "740.036",
+            "name": "Datograph Perpetual Tourbillon",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/740-036-27.jpg",
+            "updated": "2016-01-20"
+        },
+        {
+            "id": 18106,
+            "refnr": "252.025",
+            "name": "Richard Lange Jumping Seconds",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 447,
+                "name": "Richard Lange"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/richard-lange\/252-025-31.jpg",
+            "updated": "2017-07-01"
+        },
+        {
+            "id": 18107,
+            "refnr": "139.035",
+            "name": "Grand Lange 1 Moonphase Lumen",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/139-035-c0.jpg",
+            "updated": "2016-01-20"
+        },
+        {
+            "id": 18108,
+            "refnr": "720.038",
+            "name": "Lange 1 Tourbillon Perpetual Calendar White Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/720-038-71.jpg",
+            "updated": "2016-01-20"
+        },
+        {
+            "id": 18109,
+            "refnr": "191.039",
+            "name": "Lange 1 White Gold Luminous",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/191-039-4a.jpg",
+            "updated": "2016-01-20"
+        },
+        {
+            "id": 18110,
+            "refnr": "211.027",
+            "name": "Saxonia Thin White Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/211-027-47.jpg",
+            "updated": "2016-06-02"
+        },
+        {
+            "id": 18111,
+            "refnr": "211.033",
+            "name": "Saxonia Thin Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/211-033-ce.jpg",
+            "updated": "2016-06-02"
+        },
+        {
+            "id": 18113,
+            "refnr": "384.032",
+            "name": "Saxonia Moonphase Pink Gold \/ Silver",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/384-032-df.jpg",
+            "updated": "2018-01-18"
+        },
+        {
+            "id": 18114,
+            "refnr": "384.026",
+            "name": "Saxonia Moonphase White Gold \/ Silver",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/384-026-44.jpg",
+            "updated": "2018-01-18"
+        },
+        {
+            "id": 21509,
+            "refnr": "380.042",
+            "name": "Saxonia Automatik Pink Gold \/ Terra Brown Ginza",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/380-042-dc.jpg",
+            "updated": "2016-07-01"
+        },
+        {
+            "id": 21510,
+            "refnr": "380.044",
+            "name": "Saxonia Automatik White Gold \/ Terra Brown Ginza",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/380-044-2b.jpg",
+            "updated": "2016-07-01"
+        },
+        {
+            "id": 23248,
+            "refnr": "260.028",
+            "name": "Richard Lange Pour le Mérite White Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 447,
+                "name": "Richard Lange"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/richard-lange\/260-028-ea.jpg",
+            "updated": "2016-09-27"
+        },
+        {
+            "id": 23521,
+            "refnr": "116.050",
+            "name": "Lange 1 Timezone Dresden",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/116-050-26.jpg",
+            "updated": "2016-10-25"
+        },
+        {
+            "id": 23936,
+            "refnr": "192.032",
+            "name": "Lange 1 Moonphase Day \/ Night Pink Gold \/ Silver",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/192-032-40.jpg",
+            "updated": "2016-12-07"
+        },
+        {
+            "id": 23937,
+            "refnr": "190.029",
+            "name": "Lange 1 Moonphase Day \/ Night White Gold \/ Black",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/190-029-4f.jpg",
+            "updated": "2016-12-07"
+        },
+        {
+            "id": 23938,
+            "refnr": "190.025",
+            "name": "Lange 1 Moonphase Day \/ Night Platinum \/ Silver",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/190-025-d7.jpg",
+            "updated": "2016-12-07"
+        },
+        {
+            "id": 24984,
+            "refnr": "706.025",
+            "name": "Tourbograph Perpetual 'Pour le Mérite' Platinum \/ Silver",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 446,
+                "name": "Tourbillon"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/tourbillon\/706-025-1d.jpg",
+            "updated": "2017-01-20"
+        },
+        {
+            "id": 24985,
+            "refnr": "143.050",
+            "name": "Zeitwerk Decimal Strike Honey Gold \/ Silver",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 334,
+                "name": "Zeitwerk"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/zeitwerk\/143-050-df.jpg",
+            "updated": "2017-01-20"
+        },
+        {
+            "id": 24986,
+            "refnr": "219.043",
+            "name": "Saxonia 35 Pink Gold \/ MOP",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/219-043-1b.jpg",
+            "updated": "2017-01-20"
+        },
+        {
+            "id": 24987,
+            "refnr": "219.047",
+            "name": "Saxonia 35 White Gold \/ MOP",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/219-047-b2.jpg",
+            "updated": "2017-01-20"
+        },
+        {
+            "id": 24988,
+            "refnr": "182.030",
+            "name": "Kleine Lange 1 Moonphase Pink Gold \/ Silver",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/182-030-39.jpg",
+            "updated": "2017-01-20"
+        },
+        {
+            "id": 24989,
+            "refnr": "130.039",
+            "name": "Lange 31 White Gold \/ Grey",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/130-039-ba.jpg",
+            "updated": "2017-01-20"
+        },
+        {
+            "id": 24991,
+            "refnr": "238.032",
+            "name": "1815 Annual Calendar Pink Gold \/ Silver",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/238-032-1a.jpg",
+            "updated": "2017-01-26"
+        },
+        {
+            "id": 24992,
+            "refnr": "238.026",
+            "name": "1815 Annual Calendar White Gold \/ Silver",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/238-026-2d.jpg",
+            "updated": "2017-01-26"
+        },
+        {
+            "id": 26106,
+            "refnr": "414.028",
+            "name": "1815 Chronograph White Gold \/ Black \/ Pulsometer",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/414-028-70.jpg",
+            "updated": "2017-06-08"
+        },
+        {
+            "id": 27934,
+            "refnr": "421.048",
+            "name": "1815 Rattrapante Perpetual Calendar White Gold \/ Handwerkskunst",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/421-048-5b.jpg",
+            "updated": "2017-09-16"
+        },
+        {
+            "id": 27935,
+            "refnr": "191.028",
+            "name": "Lange 1 White Gold \/ Blue",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/191-028-45.jpg",
+            "updated": "2017-09-19"
+        },
+        {
+            "id": 27936,
+            "refnr": "320.028",
+            "name": "Lange 1 Daymatic White Gold \/ Blue",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/320-028-e1.jpg",
+            "updated": "2017-09-19"
+        },
+        {
+            "id": 27937,
+            "refnr": " 219.028",
+            "name": "Saxonia 35 White Gold \/ Blue",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/219-028-4a.jpg",
+            "updated": "2017-09-19"
+        },
+        {
+            "id": 27938,
+            "refnr": "380.028",
+            "name": "Saxonia Automatik White Gold \/ Blue",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/380-028-a9.jpg",
+            "updated": "2017-09-19"
+        },
+        {
+            "id": 30511,
+            "refnr": "297.021",
+            "name": "1815 Homage to Walter Lange Yellow Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/297-021-a2.jpg",
+            "updated": "2017-12-07"
+        },
+        {
+            "id": 30512,
+            "refnr": "297.026",
+            "name": "1815 Homage to Walter Lange White Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/297-026-52.jpg",
+            "updated": "2017-12-07"
+        },
+        {
+            "id": 30513,
+            "refnr": "297.032",
+            "name": "1815 Homage to Walter Lange Pink Gold",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/297-032-b0.jpg",
+            "updated": "2017-12-07"
+        },
+        {
+            "id": 30514,
+            "refnr": "297.078",
+            "name": "1815 Homage to Walter Lange Stainless Steel",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/297-078-b2.jpg",
+            "updated": "2017-12-07"
+        },
+        {
+            "id": 30543,
+            "refnr": "117.025DUB",
+            "name": "Grand Lange 1 Platinum \/ Dubail",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/117-025dub-48.png",
+            "updated": "2017-12-27"
+        },
+        {
+            "id": 30606,
+            "refnr": "424.038",
+            "name": "Triple Split White Gold \/ Grey",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/424-038-a9.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 30607,
+            "refnr": "414.031",
+            "name": "1815 Chronograph Pink Gold \/ Black \/ Pulsometer",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/414-031-52.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 30608,
+            "refnr": "414.032",
+            "name": "1815 Chronograph Pink Gold \/ Black \/ Pulsometer",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/414-032-92.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 30609,
+            "refnr": "205.086",
+            "name": "Saxonia Thin White Gold \/ Aventurine",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/205-086-69.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 30610,
+            "refnr": "384.029",
+            "name": "Saxonia Moonphase White Gold \/ Black",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/384-029-ab.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 30611,
+            "refnr": "384.031",
+            "name": "Saxonia Moonphase Pink Gold \/ Black",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/384-031-9e.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 30612,
+            "refnr": "381.026",
+            "name": "Saxonia Outsize Date White Gold \/ Black",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/381-026-49.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 30613,
+            "refnr": "381.032",
+            "name": "Saxonia Outsize Date Pink Gold \/ Black",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 444,
+                "name": "Saxonia"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/saxonia\/381-032-74.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 30614,
+            "refnr": "181.037",
+            "name": "Kleine Lange 1 Pink Gold \/ Brown",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/181-037-72.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 30615,
+            "refnr": "181.038",
+            "name": "Kleine Lange 1 White Gold \/ Grey",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/181-038-e4.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 30616,
+            "refnr": "181.039",
+            "name": "Kleine Lange 1 White Gold \/ Purple",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/181-039-d.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 30904,
+            "refnr": "320.040",
+            "name": "Lange 1 Daymatic White Gold \/ Silver Guilloche \/ Tokyo Boutique",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 322,
+                "name": "Lange 1"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/lange-1\/320-040-97.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 31630,
+            "refnr": "730.079",
+            "name": "1815 Tourbillon Platinum \/ Enamel",
+            "brand": {
+                "id": 68,
+                "name": "A. Lange & Söhne"
+            },
+            "family": {
+                "id": 354,
+                "name": "1815"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/a-lange-sohne\/1815\/730-079-2c.jpg",
+            "updated": "2018-07-12"
+        }
+    ]
+}

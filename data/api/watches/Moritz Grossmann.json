@@ -1,0 +1,695 @@
+{
+    "num_results": 46,
+    "watches": [
+        {
+            "id": 23942,
+            "refnr": "MG-000001",
+            "name": "Benu Rose Gold",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 711,
+                "name": "Benu"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/benu\/mg01-a-01-a000001-9.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 23943,
+            "refnr": "MG-000002",
+            "name": "Benu White Gold",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 711,
+                "name": "Benu"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/benu\/mg01-a-02-a000002-85.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 23944,
+            "refnr": "MG-000003",
+            "name": "Benu Platinum",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 711,
+                "name": "Benu"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/benu\/mg01-a-03-a000003-ab.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 23945,
+            "refnr": "MG-000628",
+            "name": "Benu Power Reserve Platinum",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 711,
+                "name": "Benu"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/benu\/mg01-c-03-a000628-fc.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 23946,
+            "refnr": "MG-000462",
+            "name": "Benu Power Reserve White Gold \/ Grey",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 711,
+                "name": "Benu"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/benu\/mg01-c-02-a000462-12.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 23947,
+            "refnr": "MG-000461",
+            "name": "Benu Power Reserve White Gold \/ Silver",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 711,
+                "name": "Benu"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/benu\/mg01-c-02-a000461-1d.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 23948,
+            "refnr": "MG-000460",
+            "name": "Benu Power Reserve Rose Gold \/ Silver",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 711,
+                "name": "Benu"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/benu\/mg01-c-01-a000460-18.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 23949,
+            "refnr": "MG-000622",
+            "name": "Benu Power Reserve White Gold \/ Grey \/ Roman",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 711,
+                "name": "Benu"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/benu\/mg01-c-02-a000622-b4.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 23950,
+            "refnr": "MG-000004",
+            "name": "Benu Tourbillon White Gold \/ Silver",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 711,
+                "name": "Benu"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/benu\/mg01-g-02-a000004-9b.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 23951,
+            "refnr": "MG-000779",
+            "name": "Benu Tourbillon White Gold \/ Black",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 711,
+                "name": "Benu"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/benu\/mg01-g-02-a000779-2a.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 23952,
+            "refnr": "MG-000463",
+            "name": "Atum Rose Gold",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg02-b-01-a000463-1d.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 23953,
+            "refnr": "MG-000464",
+            "name": "Atum White Gold \/ Silver",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg02-b-02-a000464-1.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 23954,
+            "refnr": "MG-000465",
+            "name": "Atum White Gold \/ Charcoal",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg02-b-02-a000465-77.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 23955,
+            "refnr": "MG-000470",
+            "name": "Atum Power Reserve Rose Gold",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg02-c-01-a000470-84.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 23956,
+            "refnr": "MG-000471",
+            "name": "Atum Power Reserve White Gold",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg02-c-02-a000471-76.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 23957,
+            "refnr": "MG-000496",
+            "name": "Atum Pure Stainless Steel \/ Silver",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg-000496-a1.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 23958,
+            "refnr": "MG-000499",
+            "name": "Atum Pure Stainless Steel \/ Blue",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg02-i-04-a000499-85.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 23959,
+            "refnr": "MG-000502",
+            "name": "Atum Pure Stainless Steel \/ Grey",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg02-i-04-a000502-b7.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 23960,
+            "refnr": "MG-000703",
+            "name": "Atum Pure M Stainless Steel \/ White",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg02-i-04-a000703-b8.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 23961,
+            "refnr": "MG-000688",
+            "name": "Atum Pure M Stainless Steel \/ Blue",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg02-i-04-a000688-dd.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 23962,
+            "refnr": "MG-000709",
+            "name": "Atum Pure M Stainless Steel \/ Orange",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg02-i-04-a000709-87.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 23963,
+            "refnr": "MG-000646",
+            "name": "Atum Pure M Stainless Steel \/ Green",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg02-i-04-a000646-c6.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 23964,
+            "refnr": "MG-000587",
+            "name": "Atum Pure M DLC  \/ White",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg02-i-06-a000587-ee.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 23965,
+            "refnr": "MG-000712",
+            "name": "Atum Pure M DLC  \/ Blue",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg02-i-06-a000712-45.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 23966,
+            "refnr": "MG-000685",
+            "name": "Atum Pure M DLC  \/ Orange",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg02-i-06-a000685-97.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 23967,
+            "refnr": "MG-000706",
+            "name": "Atum Pure M DLC  \/ Green",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg02-i-06-a000706-78.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 25969,
+            "refnr": "MG-001173",
+            "name": "Benu Tourbillon Skylife",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 711,
+                "name": "Benu"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/benu\/mg-001173-a1.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 25970,
+            "refnr": "MG-001191",
+            "name": "Atum Primavera Rose Gold \/ Champagne",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg-001191-91.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 25971,
+            "refnr": "MG-000978",
+            "name": "Atum Primavera White Gold \/ Champagne",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg-000978-c.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 25972,
+            "refnr": "MG-000976",
+            "name": "Atum Primavera White Gold \/ Ice Blue",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg-000976-60.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 25973,
+            "refnr": "MG-000980",
+            "name": "Atum Primavera White Gold \/ Burgundy",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg-000980-6d.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 25974,
+            "refnr": "MG-000854",
+            "name": "Atum Date Rose Gold",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg-000854-f3.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 25975,
+            "refnr": "MG-000857",
+            "name": "Atum Date White  Gold",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg-000857-47.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 25976,
+            "refnr": "MG-000804",
+            "name": "Atum Enamel Rose Gold",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg-000804-eb.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 25977,
+            "refnr": "MG-000807",
+            "name": "Atum Enamel White Gold",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg-000807-a2.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 25978,
+            "refnr": "MG-001158",
+            "name": "Atum Polo Rose Gold",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg-001158-80.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 25979,
+            "refnr": "MG-001161",
+            "name": "Atum Polo White Gold",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg-001161-78.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 25980,
+            "refnr": "MG-0001063",
+            "name": "Atum Matterhorn Rose Gold",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg-0001063-27.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 25982,
+            "refnr": "MG-001113",
+            "name": "Atum Pure L DLC  \/ Blue",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg-001113-4d.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 25983,
+            "refnr": "MG-001119",
+            "name": "Atum Pure L DLC  \/ Orange",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg-001119-f2.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 25984,
+            "refnr": "MG-001122",
+            "name": "Atum Pure L DLC  \/ Green",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg-001122-5f.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 25985,
+            "refnr": "MG-001116",
+            "name": "Atum Pure L DLC  \/ White",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg-001116-48.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 25986,
+            "refnr": "MG-001088",
+            "name": "Atum Pure L Stainless Steel \/ Blue",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg-001088-6b.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 25987,
+            "refnr": "MG-001094",
+            "name": "Atum Pure L Stainless Steel \/ Orange",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg-001094-d0.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 25988,
+            "refnr": "MG-001097",
+            "name": "Atum Pure L Stainless Steel \/ Green",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg-001097-cb.jpg",
+            "updated": "2018-02-28"
+        },
+        {
+            "id": 25989,
+            "refnr": "MG-001091",
+            "name": "Atum Pure L Stainless Steel \/ White",
+            "brand": {
+                "id": 177,
+                "name": "Moritz Grossmann"
+            },
+            "family": {
+                "id": 712,
+                "name": "Atum"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/moritz-grossmann\/atum\/mg-001091-82.jpg",
+            "updated": "2018-02-28"
+        }
+    ]
+}

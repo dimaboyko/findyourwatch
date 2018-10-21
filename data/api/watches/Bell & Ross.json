@@ -1,0 +1,2870 @@
+{
+    "num_results": 191,
+    "watches": [
+        {
+            "id": 11903,
+            "refnr": "BR0192-BL-ST",
+            "name": "BR 01 92 Steel",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0192-bl-st-2d.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 11905,
+            "refnr": "BR0192-BL-CA",
+            "name": "BR 01 92 Carbon",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0192-bl-ca-2f.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 11906,
+            "refnr": "BR0192BLCERSRB",
+            "name": "BR 01 92 Ceramic",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0192blcersrb-bb.jpg",
+            "updated": "2015-02-14"
+        },
+        {
+            "id": 11908,
+            "refnr": "BR0192-HERITAGE",
+            "name": "BR 01 92 Heritage",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0192-heritage-bb.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 11910,
+            "refnr": "BRWW192-MIL\/SCA",
+            "name": "WW1 92 Military",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brww192milsca-18.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 11915,
+            "refnr": "BRV123-BL-ST\/SCA",
+            "name": "BR 123 Original Black",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv123-bl-st-sca-e0.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 11920,
+            "refnr": "BRV123BEISTSCA",
+            "name": "BR 123 Original Beige",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv123beistsca-c7.jpg",
+            "updated": "2016-02-25"
+        },
+        {
+            "id": 11922,
+            "refnr": "BRV123-ST-HER\/SRB",
+            "name": "BR 123 Sport Heritage",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv123-st-her-srb-80.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 11923,
+            "refnr": "BR02-ORANGE",
+            "name": "BR 02-92 Orange",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 257,
+                "name": "Marine"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/marine\/br02-orange-9e.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 11927,
+            "refnr": "BR02BLUE",
+            "name": "BR 02-92 Blue",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 257,
+                "name": "Marine"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/marine\/br02blue-4f.jpg",
+            "updated": "2015-07-03"
+        },
+        {
+            "id": 11930,
+            "refnr": "BRV126-BL-ST\/SCA",
+            "name": "BR 126 Original Black Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv126-bl-st-sca-cb.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 11935,
+            "refnr": "BR0392-AVIA-ST",
+            "name": "BR 03 92 Type Aviation Steel",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0392-avia-st-23.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 11937,
+            "refnr": "BRV126-ST-HER\/SRB",
+            "name": "BR 126 Sport Heritage Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv126-st-her-srb-bb.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 11938,
+            "refnr": "BRWW1-MONO-HER\/SCA",
+            "name": "WW1 Chronographe Monopoussoir Heritage",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brww1-mono-her-sca-bd.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 11941,
+            "refnr": "BR02-CHR-BL-ST",
+            "name": "BR 02 94 Chronograph Steel",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 257,
+                "name": "Marine"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/marine\/br02-chr-bl-st-da.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 11944,
+            "refnr": "BR0192HEADING",
+            "name": "BR 01 92 Heading Indicator",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0192heading-8a.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 11961,
+            "refnr": "BRWW1-MONO-IVO\/SCR",
+            "name": "WW1 Chronographe Monopoussoir Ivory",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brww1-mono-ivo-scr-d3.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 11962,
+            "refnr": "BRV123-HERITAGE",
+            "name": "BR 123 Heritage",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv123-heritage-74.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 11964,
+            "refnr": "BRG126-WH-ST\/SCR",
+            "name": "BR 126 Officer Silver Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brg126-wh-st-scr-58.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 11966,
+            "refnr": "BR0192AIRSPEED",
+            "name": "BR 01 92 Airspeed",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0192airspeed-19.jpg",
+            "updated": "2016-02-25"
+        },
+        {
+            "id": 11968,
+            "refnr": "BR0193-GMT",
+            "name": "BR 01 93 GMT 24H",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0193gmt-cf.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 11970,
+            "refnr": "BR0192CASINOBTQ",
+            "name": "BR 01 92 Casino",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0192casinobtq-d9.jpg",
+            "updated": "2017-05-02"
+        },
+        {
+            "id": 11977,
+            "refnr": "BR0392BLSTSST",
+            "name": "BR 03 92 Steel",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0392blstsst-fb.jpg",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 11980,
+            "refnr": "BR0392MILITARY",
+            "name": "BR 03 92 Military",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0392military-ce.jpg",
+            "updated": "2016-02-25"
+        },
+        {
+            "id": 11985,
+            "refnr": "BR0392-WH-C-D\/SCA",
+            "name": "BR 03 92 White Ceramic \/ Diamond",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0392-wh-c-d-sca-78.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 11986,
+            "refnr": "BR0394OCA",
+            "name": "BR 03 94 Carbon Orange Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0394oca-45.jpg",
+            "updated": "2016-02-25"
+        },
+        {
+            "id": 11989,
+            "refnr": "BR0351-GMT-CA",
+            "name": "BR 03 51 Carbon GMT",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0351gmtca-8e.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 11991,
+            "refnr": "BRWW1-ME-AG-RU\/SCR",
+            "name": "WW1 Argentium Ruthenium",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brww1-me-ag-ru-scr-3d.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 11996,
+            "refnr": "BRV123-FALCON\/SCA",
+            "name": "BR 123 Falcon",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv123-falcon-sca-98.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 11998,
+            "refnr": "BR02-PINKGOLD",
+            "name": "BR 02 92 Pink Gold",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 257,
+                "name": "Marine"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/marine\/br02-pinkgold-48.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 11999,
+            "refnr": "BRV126-FALCON\/SCA",
+            "name": "BR 126 Falcon",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv126falconsca-5e.jpg",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 12000,
+            "refnr": "BR0392REDRADAR",
+            "name": "BR 03 92 Red Radar",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0392redradar-90.jpg",
+            "updated": "2017-02-07"
+        },
+        {
+            "id": 12001,
+            "refnr": "BR0197-BL-ST",
+            "name": "BR 01 97 Reserve de Marche",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0197-bl-st-a8.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12036,
+            "refnr": "BRV126BLBESCA",
+            "name": "BR 126 Sport Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv126blbesca-ad.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12041,
+            "refnr": "BR0394STGHESCA",
+            "name": "BR 03 94 Golden Heritage Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0394stghesca-f3.jpg",
+            "updated": "2016-02-25"
+        },
+        {
+            "id": 12046,
+            "refnr": "BR0394HERITAGE",
+            "name": "BR 03 94 Heritage",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0394heritage-76.jpg",
+            "updated": "2016-02-25"
+        },
+        {
+            "id": 12076,
+            "refnr": "BR0392BLST2",
+            "name": "BR 03 92 Steel",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0392blst2-c1.jpg",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 12086,
+            "refnr": "BRSHERITAGESCA",
+            "name": "BR S Heritage",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brsheritagesca-9d.jpg",
+            "updated": "2016-02-25"
+        },
+        {
+            "id": 12090,
+            "refnr": "BRS-BL-CMAT\/SRB",
+            "name": "BR S Matte Black Ceramic",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brsblcmatsrb-83.jpg",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 12092,
+            "refnr": "BRSCERAMMILSRB",
+            "name": "BR S Military Ceramic",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brscerammilsrb-e2.jpg",
+            "updated": "2016-02-25"
+        },
+        {
+            "id": 12093,
+            "refnr": "BRSBLCERAMICSRB",
+            "name": "BR S Black Ceramic",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brsblceramicsrb-f0.jpg",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 12097,
+            "refnr": "BR0392BLCA",
+            "name": "BR 03 92 Carbon",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0392blca-a8.jpg",
+            "updated": "2015-02-14"
+        },
+        {
+            "id": 12098,
+            "refnr": "BR0392-BL-CE",
+            "name": "BR 03 92 Black Matte",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0392-bl-ce-c5.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12099,
+            "refnr": "BR0392-COMMANDO-CE",
+            "name": "BR 03 92 Commando Ceramic",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0392-commando-ce-e9.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 12100,
+            "refnr": "BR0392CERAMBLUE",
+            "name": "BR 03 92 Blue Ceramic",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0392ceramblue-5d.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12104,
+            "refnr": "BR0392-WH-C\/SCA",
+            "name": "BR 03 92 White Ceramic",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0392whcsca-44.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12107,
+            "refnr": "BR0194-BL-CA",
+            "name": "BR 01 94 Carbon Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0194-bl-ca-50.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12108,
+            "refnr": "BR0194RED",
+            "name": "BR 01 94 Red Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0194red-bc.jpg",
+            "updated": "2015-02-14"
+        },
+        {
+            "id": 12109,
+            "refnr": "BR0194YELLOW",
+            "name": "BR 01 94 Yellow Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0194yellow-7c.jpg",
+            "updated": "2015-02-14"
+        },
+        {
+            "id": 12110,
+            "refnr": "BR0194CAFIBER",
+            "name": "BR 01 94 Carbon Fiber Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0194cafiber-8e.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12111,
+            "refnr": "BR0194-CA-FIBER-PH",
+            "name": "BR 01 94 Carbon Fiber Phantom Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0194-ca-fiber-ph-a9.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12113,
+            "refnr": "BR0394-BL-SI\/SCA",
+            "name": "BR 03 94 Steel Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0394-bl-si-sca-56.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 12114,
+            "refnr": "BR0192GOLDINGOT",
+            "name": "BR 01 92 Gold Ingot",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0192goldingot-8c.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12145,
+            "refnr": "BRV123STHERSST",
+            "name": "BR 123 Sport Heritage",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv123sthersst-97.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12146,
+            "refnr": "BRV126BLSTSST",
+            "name": "BR 126 Original Black Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv126blstsst-ca.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12147,
+            "refnr": "BRV126BLBESST",
+            "name": "BR 126 Sport Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv126blbesst-f.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12148,
+            "refnr": "BRV126-ST-HER\/SST",
+            "name": "BR 126 Sport Heritage Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv126-st-her-sst-46.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12149,
+            "refnr": "BRG126WHSTSST",
+            "name": "BR 126 Officer Silver Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brg126whstsst-46.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12186,
+            "refnr": "BR0196-ALTIMETER",
+            "name": "BR 01 96 Altimeter",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0196-altimeter-9.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12316,
+            "refnr": "BRV123BLSTSST",
+            "name": "BR 123 Original Black",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv123blstsst-58.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12317,
+            "refnr": "BRV123BEISTSST",
+            "name": "BR 123 Original Beige",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv123beistsst-6.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12318,
+            "refnr": "BRG123BLSTSCR",
+            "name": "BR 123 Officer Black",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brg123blstscr-1a.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12320,
+            "refnr": "BRG123BLSTSST",
+            "name": "BR 123 Officer Black",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brg123blstsst-97.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12321,
+            "refnr": "BRG123WHSTSCR",
+            "name": "BR 123 Officer Silver",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brg123whstscr-6f.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12324,
+            "refnr": "BRG123WHSTSST",
+            "name": "BR 123 Officer Silver",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brg123whstsst-32.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12327,
+            "refnr": "BRV123-BL-CA\/SCA",
+            "name": "BR 123 Original Carbon",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv123-bl-ca-sca-90.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12328,
+            "refnr": "BRV123-COMMANDO",
+            "name": "BR 123 Commando",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv123-commando-2c.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12331,
+            "refnr": "BRV123PHANTOM",
+            "name": "BR 123 Phantom",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv123phantom-40.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12337,
+            "refnr": "BRV126-BEI-ST\/SCA",
+            "name": "BR 126 Original Beige Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv126-bei-st-sca-b5.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12338,
+            "refnr": "BRV126BEISTSST",
+            "name": "BR 126 Original Beige Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv126beistsst-7e.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12339,
+            "refnr": "BRG126BLSTSCR",
+            "name": "BR 126 Officer Black Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brg126blstscr-27.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12340,
+            "refnr": "BRG126BLSTSST",
+            "name": "BR 126 Officer Black Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brg126blstsst-1f.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12341,
+            "refnr": "BRV126-BL-CA\/SCA",
+            "name": "BR 126 Original Carbon Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv126-bl-ca-sca-aa.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12343,
+            "refnr": "BRV126PHANTOM",
+            "name": "BR 126 Phantom Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv126phantom-8e.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12344,
+            "refnr": "BRV126COMMANDO",
+            "name": "BR 126 Commando Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv126commando-99.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12345,
+            "refnr": "BR0192-TURNCOOR",
+            "name": "BR 01 92 Turn Coordinator",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0192-turncoor-67.png",
+            "updated": "2017-05-06"
+        },
+        {
+            "id": 12346,
+            "refnr": "BR0192-HORIZON",
+            "name": "BR 01 92 Horizon",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0192-horizon-24.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12347,
+            "refnr": "BR0192-CA FIBER",
+            "name": "BR 01 92 Carbon Fiber",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0192-ca-fiber-3a.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12348,
+            "refnr": "BR0192-CA-FIBER-PH",
+            "name": "BR 01 92 Carbon Fiber Phantom",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0192-ca-fiber-ph-13.png",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 12349,
+            "refnr": "BR0392CERBLPSRB",
+            "name": "BR 03 92 Black Ceramic",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0392cerblpsrb-30.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12350,
+            "refnr": "BR0394BLCA",
+            "name": "BR 03 94 Carbon Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0394blca-37.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12351,
+            "refnr": "BR0394PHANTOM",
+            "name": "BR 03 94 Phantom Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0394phantom-e9.jpg",
+            "updated": "2016-02-25"
+        },
+        {
+            "id": 12352,
+            "refnr": "BR0394COMMANDO",
+            "name": "BR 03 94 Commando Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0394commando-d2.jpg",
+            "updated": "2016-02-25"
+        },
+        {
+            "id": 12353,
+            "refnr": "BRSBLCPHSBR",
+            "name": "BR S Black Ceramic Phantom",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brsblcphsbr-c5.jpg",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 12354,
+            "refnr": "BRSBLCPHSCE",
+            "name": "BR S Black Ceramic Phantom",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brsblcphsce-1c.jpg",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 12355,
+            "refnr": "BRSBLCPHLGDSRB",
+            "name": "BR S Black Ceramic Phantom Diamonds",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brsblcphlgdsrb-2b.jpg",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 12356,
+            "refnr": "BRSBLCPHLGDSCE",
+            "name": "BR S Black Ceramic Phantom Diamonds",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brsblcphlgdsce-61.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12357,
+            "refnr": "BRSWHCERAMICSRB",
+            "name": "BR S White Ceramic",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brswhceramicsrb-da.jpg",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 12358,
+            "refnr": "BRSWHCERAMICSCE",
+            "name": "BR S White Ceramic",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brswhceramicsce-8e.jpg",
+            "updated": "2016-02-25"
+        },
+        {
+            "id": 12359,
+            "refnr": "BRSWHCPHSRB",
+            "name": "BR S White Ceramic Phantom",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brswhcphsrb-51.jpg",
+            "updated": "2016-02-25"
+        },
+        {
+            "id": 12360,
+            "refnr": "BRSWHCPHSCE",
+            "name": "BR S White Ceramic Phantom",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brswhcphsce-4.jpg",
+            "updated": "2016-02-25"
+        },
+        {
+            "id": 12361,
+            "refnr": "BRSWHCPHLGDSCE",
+            "name": "BR S White Ceramic Diamond",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brswhcphlgdsce-ce.jpg",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 12362,
+            "refnr": "BRS-PKGOLD-PEARL_D",
+            "name": "BR S Gold",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brs-pkgold-pearl-d-ea.png",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 12363,
+            "refnr": "BRS-WHGOLD-IVORY_D",
+            "name": "BR S White Gold",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brs-whgold-ivory-d-3c.png",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 12364,
+            "refnr": "BRSBLSTSRB",
+            "name": "BR S Steel",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brsblstsrb-d3.jpg",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 12365,
+            "refnr": "BRS92SISTSCR",
+            "name": "BR S Officer Silver",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brs92sistscr-a3.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12366,
+            "refnr": "BRS92RUSTSCR",
+            "name": "BR S Officer Ruthenium",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brs92rustscr-3b.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12367,
+            "refnr": "BRS92BLST",
+            "name": "BR S Officer Black",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brs92blst-22.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12368,
+            "refnr": "BR0392-HERITAGE-CE",
+            "name": "BR 03 92 Heritage Ceramic",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0392-heritage-ce-86.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 12369,
+            "refnr": "BR0392-ST-G-HE\/SCA",
+            "name": "BR 03 92 Golden Heritage",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0392stghesca-5a.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12370,
+            "refnr": "BR0392PHANTOM",
+            "name": "BR 03 92 Phantom",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0392phantom-3c.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12371,
+            "refnr": "BR0392COMMANDO",
+            "name": "BR 03 92 Commando",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0392commando-8b.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12372,
+            "refnr": "BR0392-PHANTOM-CE",
+            "name": "BR 03 92 Phantom Ceramic",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0392-phantom-ce-5b.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 12373,
+            "refnr": "BRWW1-ME-AG-SI\/SCR",
+            "name": "WW1 Argentium Silver",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brww1-me-ag-si-scr-37.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 12374,
+            "refnr": "BRWW1-ME-AG-OP\/SCR",
+            "name": "WW1 Argentium Opalin",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brww1-me-ag-op-scr-51.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 12375,
+            "refnr": "BRWW192-HER\/SCA",
+            "name": "WW1 92 Heritage",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brww192-her-sca-a2.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12376,
+            "refnr": "BRWW196-BL-ST\/SCR",
+            "name": "WW1 96 Grande Date",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brww196-bl-st-scr-25.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12383,
+            "refnr": "BRWW197-BL-ST\/SCR",
+            "name": "WW1 97 Reserve de Marche",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brww197-bl-st-scr-47.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12384,
+            "refnr": "BRWW190-BL-ST\/SCR",
+            "name": "WW1 90 Grande Date & Reserve de Marche",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brww190-bl-st-scr-60.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12385,
+            "refnr": "BR0392-AVIA-ST\/SST",
+            "name": "BR 03 92 Type Aviation  Steel",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0392aviastsst-22.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12386,
+            "refnr": "BR0392-AVIA-CA",
+            "name": "BR 03 92 Type Aviation Carbon",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0392-avia-ca-49.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12387,
+            "refnr": "BR0196BLST",
+            "name": "BR 01 96 Grande Date",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0196blst-6f.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12388,
+            "refnr": "BR0196WHST",
+            "name": "BR 01 96 Grande Date",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0196whst-73.jpg",
+            "updated": "2015-07-03"
+        },
+        {
+            "id": 12389,
+            "refnr": "BR0192-BICOLOR",
+            "name": "BR 01 92 Pink Gold & Carbon",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0192-bicolor-e2.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12391,
+            "refnr": "BR0390BLST",
+            "name": "BR 03 90 Grande Date & Reserve de Marche",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0390blst-70.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 12392,
+            "refnr": "BR0390BLSTSST",
+            "name": "BR 03 90 Grande Date & Reserve de Marche",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0390blstsst-11.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12393,
+            "refnr": "BR0390-B-ROCKET",
+            "name": "BR 03 90 B-Rocket",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0390-b-rocket-27.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 12394,
+            "refnr": "BR0390-BICOLOR",
+            "name": "BR 03 90 Steel & Rose Gold",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0390bicolor-d2.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12395,
+            "refnr": "BR0390-PINKGOLD",
+            "name": "BR 03 90 Rose Gold",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0390-pinkgold-87.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 12396,
+            "refnr": "BR0397-BL-SI\/SCA",
+            "name": "BR 03 97 Reserve de Marche",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0397blsisca-f7.jpg",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12397,
+            "refnr": "BR0194-B-ROCKET",
+            "name": "BR 01 94 B-Rocket",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0194brocket-e7.jpg",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 12398,
+            "refnr": "BR0194TITANIUM",
+            "name": "BR 01 94 Titanium Ultralight Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0194titanium-d1.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12399,
+            "refnr": "BR0194-BICO-OF",
+            "name": "BR 01 94 Pink Gold & Carbon Officer Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0194-bico-of-17.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12400,
+            "refnr": "BR0194-TI-PRO",
+            "name": "BR 01 94 Pro Titanium Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0194-ti-pro-1b.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 12570,
+            "refnr": "BRV123-BL-GMT\/SRB",
+            "name": "BR 123 GMT",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv123-bl-gmt-srb-f.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 13048,
+            "refnr": "BRX1-CE-TI-RED",
+            "name": "BR-X1 Titanium",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brx1-ce-ti-red-33.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 15327,
+            "refnr": "BR03-Rafale",
+            "name": "BR 03 Rafale",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br03-rafale-5e.png",
+            "updated": "2015-03-20"
+        },
+        {
+            "id": 15328,
+            "refnr": "BR0394-BL-CE",
+            "name": "BR 03-94 Black Matte",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0394-bl-ce-4d.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 15329,
+            "refnr": "BR0394-HERI-CE",
+            "name": "BR 03-94 Heritage Ceramic",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0394-heri-ce-2.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 15367,
+            "refnr": "BRX1-CE-CF-BLACK",
+            "name": "BR-X1 Carbone Forgé",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brx1-ce-cf-black-97.png",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 15368,
+            "refnr": "BRX1-CE-TI-REDII",
+            "name": "BR-X1 Red Boutique Edition",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brx1-ce-ti-redii-78.png",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 15375,
+            "refnr": "BR0192-AIR-SKULL",
+            "name": "BR 01 Air Skull",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br01-air-skull-46.png",
+            "updated": "2016-08-09"
+        },
+        {
+            "id": 15378,
+            "refnr": "BR0392-MIL-CE",
+            "name": "BR 03 92 Military Type Ceramic",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0392-mil-ce-69.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 15379,
+            "refnr": "BR0392-DESERT-CE",
+            "name": "BR 03 92 Desert Type Ceramic",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0392-desert-ce-78.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 19163,
+            "refnr": "BR0192-10TH-CE",
+            "name": "BR01-92 10th Anniversary",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0192-10th-ce-c9.png",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 19226,
+            "refnr": "BR0392-DESERT-CA",
+            "name": "BR 03-92 Desert Type",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0392deserttype-79.png",
+            "updated": "2017-07-08"
+        },
+        {
+            "id": 20011,
+            "refnr": "BRV126-O-CA",
+            "name": "BR 126 Carbon Orange Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv126-o-ca-a.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 20347,
+            "refnr": "BR0396-SI-ST",
+            "name": "BR 03 96 Grande Date",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0396sist-cc.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 20483,
+            "refnr": "BRWW197-HER-ST\/SCR",
+            "name": "WW1 97 Reserve de marche Heritage",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brww197-her-st-scr-76.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 20487,
+            "refnr": "BRV123-GH-ST\/SCA",
+            "name": "BR 123 Golden Heritage",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv123-gh-st-sca-b9.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 20489,
+            "refnr": "BRV126-BS-ST\/SF",
+            "name": "BR 126 GT Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv126-bs-st-sf-a5.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 20494,
+            "refnr": "BRS-HERI-CEM",
+            "name": "BR S Heritage Ceramic",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brs-heri-cem-3a.png",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 20496,
+            "refnr": "BRS-CAMO-ST",
+            "name": "BR S Grey Camouflage",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brscamost-a9.png",
+            "updated": "2017-08-03"
+        },
+        {
+            "id": 20499,
+            "refnr": "BR02-PINKGOLD-CA",
+            "name": "BR 02 92 Rose Gold & Carbon",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 257,
+                "name": "Marine"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/marine\/br02-pinkgold-ca-4a.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 20503,
+            "refnr": "BR02-CHR-BICOLOR",
+            "name": "BR 02 92 Chronograph Rose Gold & Carbon",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 257,
+                "name": "Marine"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/marine\/br02-chr-bicolor-57.png",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 20729,
+            "refnr": "BRX1-CHTB-SAPHIR",
+            "name": "BR-X1 Tourbillon Chronograph Sapphire",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br-x1-tourbillon-sapphire-1b.jpg",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 20730,
+            "refnr": "BRX1-CHTB-TI",
+            "name": "BR-X1 Tourbillon Chronograph Titanium",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brx1-chtb-ti-e9.png",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 23086,
+            "refnr": "BR0192-SKULL-BURN",
+            "name": "BR-01 Burning Skull",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0192-skull-burn-7c.jpg",
+            "updated": "2017-07-01"
+        },
+        {
+            "id": 25276,
+            "refnr": "BR0392-HOR-BLC\/SRB",
+            "name": "BR 03 92 Horograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0392-hor-blc-srb-b8.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 25277,
+            "refnr": "BR0392-GR-ST\/SCA",
+            "name": "BR 03 92 Horolum",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0392-gr-st-sca-c9.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 25519,
+            "refnr": "BRV192-BL-ST\/SCA",
+            "name": "BR V1-92 Black Steel",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv192-bl-st-sca-2c.png",
+            "updated": "2017-03-29"
+        },
+        {
+            "id": 25520,
+            "refnr": "BRV292-BL-ST\/SST",
+            "name": "BR V2-92 Black Steel",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv292-bl-st-sst-e6.png",
+            "updated": "2017-03-29"
+        },
+        {
+            "id": 25521,
+            "refnr": "BRV294-BL-ST\/SST",
+            "name": "BR V2-94 Black Steel",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv294-bl-st-sst-9a.png",
+            "updated": "2017-03-29"
+        },
+        {
+            "id": 25522,
+            "refnr": "BR0392-D-BL-ST\/SRB",
+            "name": "BR 03-92 Diver",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/marine\/br0392-d-bl-st-srb-e.png",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 25523,
+            "refnr": "BR0394-RS17",
+            "name": "BR 03-94 RS17",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0394-rs17-56.png",
+            "updated": "2017-03-29"
+        },
+        {
+            "id": 25767,
+            "refnr": "BR01-CM-203",
+            "name": "BR 01 Instrument de Marine",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br01-cm-203-34.png",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 25771,
+            "refnr": "BR0392-BLC-ST",
+            "name": "BR 03 92 Steel",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0392-blc-st-e2.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 25772,
+            "refnr": "BRV123-BL-CA\/SRB",
+            "name": "BR 123 Original Carbon",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv123-bl-ca-srb-8a.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 25773,
+            "refnr": "BR0392-SC\/SCA",
+            "name": "BR 03-92 Aéro GT",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0392-sc-sca-3f.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 25774,
+            "refnr": "BR0392-ST-G-HE\/SCA\/2",
+            "name": "BR 03 92 Golden Heritage",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0392-st-g-he-sca-2-ca.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 25775,
+            "refnr": "BR0392-ST-PG\/SCA",
+            "name": "BR 03 92 Steel & Rose Gold",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0392-st-pg-sca-0.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 25776,
+            "refnr": "BR0392-O-CA",
+            "name": "BR 03 92 Orange Carbon",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0392-o-ca-5a.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 25777,
+            "refnr": "BR0397-BL-SI\/SCA\/2",
+            "name": "BR 03 97 Reserve de Marche",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0397-bl-si-sca-2-b9.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 25779,
+            "refnr": "BR0393-GMT-ST\/SCA",
+            "name": "BR 03 93 GMT",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0393-gmt-st-sca-51.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 25780,
+            "refnr": "BR02-CHR-BL-CA",
+            "name": "BR 02-94 Carbon",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 257,
+                "name": "Marine"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/marine\/br02-chr-bl-ca-db.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 25781,
+            "refnr": "BR0394-DESERT-CE",
+            "name": "BR 03-94 Desert Type Ceramic",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0394-desert-ce-69.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 25782,
+            "refnr": "BR0394-BLC-ST\/SCA",
+            "name": "BR 03 94 Black Steel Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0394-blc-st-sca-cb.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 25783,
+            "refnr": "BR0394-BLU-ST\/SCA",
+            "name": "BR 03 94 Blue Steel Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0394-blu-st-sca-8c.png",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 25784,
+            "refnr": "BR0394-SC\/SCA",
+            "name": "BR 03-94 Aéro GT Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0394-sc-sca-e1.png",
+            "updated": "2017-09-15"
+        },
+        {
+            "id": 25786,
+            "refnr": "BRV126-BL-CA-CO\/FR",
+            "name": "BR 126 Insigna FR Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv126-bl-ca-co-fr-ae.png",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 25787,
+            "refnr": "BRV126-BL-CA-CO\/ES",
+            "name": "BR 126 Insigna ES Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv126-bl-ca-co-es-8f.png",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 25788,
+            "refnr": "BRG126-BRN-ST\/SCR",
+            "name": "BR 126 Original Brown Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brg126-brn-st-scr-ee.png",
+            "updated": "2017-07-08"
+        },
+        {
+            "id": 25789,
+            "refnr": "BRV126-BL-CA-CO\/UK",
+            "name": "BR 126 Insigna UK Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv126-bl-ca-co-uk-5c.png",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 25790,
+            "refnr": "BRV126-BL-CA-CO\/US",
+            "name": "BR 126 Insigna US Chronograph",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 256,
+                "name": "Vintage"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/vintage\/brv126-bl-ca-co-us-7e.png",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 25791,
+            "refnr": "BRX1-RS17",
+            "name": "BR-X1 RS17",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brx1-rs17-8.png",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 25792,
+            "refnr": "BRX1-CE-CF-RS16",
+            "name": "BR-X1 RS16",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brx1-ce-cf-rs16-d5.png",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 25793,
+            "refnr": "BRX1-CE-PG",
+            "name": "BR-X1 Rose Gold & Ceramic",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brx1-ce-pg-b6.png",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 25794,
+            "refnr": "BRX1-CM-313",
+            "name": "BR-X1 Instrument de Marine",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brx1-cm-313-4e.png",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 25795,
+            "refnr": "BRX1-WD-TI",
+            "name": "BR-X1 Wood",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brx1-wd-ti-7a.png",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 25796,
+            "refnr": "BRX1-AL-TI-BLU",
+            "name": "BR-X1 Hyperstellar",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brx1-al-ti-blu-95.png",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 25797,
+            "refnr": "BRX1-CHTB-CE-CF",
+            "name": "BR-X1 Tourbillon Chronograph Carbone Forgé",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brx1-chtb-ce-cf-8c.png",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 25798,
+            "refnr": "BRX1-CHTB-CM",
+            "name": "BR-X1 Tourbillon Chronograph Instrument de Marine",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brx1-chtb-cm-c7.png",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 25799,
+            "refnr": "BRX1-CHTB-RS17",
+            "name": "BR-X1 Tourbillon Chronograph RS17",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brx1-chtb-rs17-1e.png",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 25800,
+            "refnr": "BRX1-CHTB-TI-D",
+            "name": "BR-X1 Tourbillon Chronograph Titanium Diamonds",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brx1-chtb-ti-d-a5.png",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 25802,
+            "refnr": "BRX1-CHTB-PG-D",
+            "name": "BR-X1 Tourbillon Chronograph Rose Gold Diamonds",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brx1-chtb-pg-d-ad.png",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 25803,
+            "refnr": "BRX1-CHTB-PG",
+            "name": "BR-X1 Tourbillon Chronograph Rose Gold",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brx1-chtb-pg-72.png",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 25805,
+            "refnr": "BRS-BL-CEM",
+            "name": "BR S Matte Black Ceramic",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/brs-bl-cem-2e.png",
+            "updated": "2017-05-04"
+        },
+        {
+            "id": 27931,
+            "refnr": "BR0394-SC-ORA\/SCA",
+            "name": "BR 03-94 Aéro GT Chronograph Orange",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br0394-sc-ora-sca-86.png",
+            "updated": "2017-09-15"
+        },
+        {
+            "id": 30919,
+            "refnr": "Space 1 M",
+            "name": "Space 1 Stainless Steel \/ Black \/ Bracelet",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 823,
+                "name": "High-Tech"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/high-tech\/space-1-m-36.jpg",
+            "updated": "2018-03-02"
+        },
+        {
+            "id": 31614,
+            "refnr": "BR01-SKULL-SK-ST",
+            "name": "BR-01 Laughing Skull",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br01-skull-sk-st-de.png",
+            "updated": "2018-06-02"
+        },
+        {
+            "id": 31615,
+            "refnr": "BR01-SKULL-SK-FLD",
+            "name": "BR-01 Laughing Skull",
+            "brand": {
+                "id": 45,
+                "name": "Bell & Ross"
+            },
+            "family": {
+                "id": 254,
+                "name": "Instruments"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/bell-ross\/aviation\/br01-skull-sk-fld-cf.png",
+            "updated": "2018-06-02"
+        }
+    ]
+}

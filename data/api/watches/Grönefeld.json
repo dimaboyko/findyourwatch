@@ -1,0 +1,35 @@
+{
+    "num_results": 2,
+    "watches": [
+        {
+            "id": 14340,
+            "refnr": "Parallax 1912",
+            "name": "Parallax Tourbillon",
+            "brand": {
+                "id": 86,
+                "name": "Grönefeld"
+            },
+            "family": {
+                "id": 363,
+                "name": "Parallax Tourbillon"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/gronefeld\/parallax-tourbillon\/parallax-1912-fb.jpg",
+            "updated": "2015-02-23"
+        },
+        {
+            "id": 14341,
+            "refnr": "Parallax RG",
+            "name": "Parallax Tourbillon",
+            "brand": {
+                "id": 86,
+                "name": "Grönefeld"
+            },
+            "family": {
+                "id": 363,
+                "name": "Parallax Tourbillon"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/gronefeld\/parallax-tourbillon\/parallax-rg-4c.jpg",
+            "updated": "2015-02-23"
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "num_results": 8,
+    "watches": [
+        {
+            "id": 14318,
+            "refnr": "UR-105M",
+            "name": "UR-105M",
+            "brand": {
+                "id": 83,
+                "name": "Urwerk"
+            },
+            "family": {
+                "id": 359,
+                "name": "UR-105M"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/urwerk\/ur-105m\/ur-105m-e.jpg",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14319,
+            "refnr": "UR-105M AlTiN",
+            "name": "UR-105M",
+            "brand": {
+                "id": 83,
+                "name": "Urwerk"
+            },
+            "family": {
+                "id": 359,
+                "name": "UR-105M"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/urwerk\/ur-105m\/ur-105m-altin-83.jpg",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14320,
+            "refnr": "UR-110 RG",
+            "name": "UR-110",
+            "brand": {
+                "id": 83,
+                "name": "Urwerk"
+            },
+            "family": {
+                "id": 360,
+                "name": "UR-110"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/urwerk\/ur-110\/ur-110-rg-ff.jpg",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14321,
+            "refnr": "UR-110 Ebony",
+            "name": "UR-110 Eastwood Macassar Ebony",
+            "brand": {
+                "id": 83,
+                "name": "Urwerk"
+            },
+            "family": {
+                "id": 360,
+                "name": "UR-110"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/urwerk\/ur-110\/ur-110-ebony-14.jpg",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14322,
+            "refnr": "UR-110 Red Ebony",
+            "name": "UR-110 Eastwood Red Ebony",
+            "brand": {
+                "id": 83,
+                "name": "Urwerk"
+            },
+            "family": {
+                "id": 360,
+                "name": "UR-110"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/urwerk\/ur-110\/ur-110-red-ebony-63.jpg",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14323,
+            "refnr": "UR-210 RG",
+            "name": "UR-210",
+            "brand": {
+                "id": 83,
+                "name": "Urwerk"
+            },
+            "family": {
+                "id": 361,
+                "name": "UR-210"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/urwerk\/ur-110\/ur-210-rg-8.jpg",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14324,
+            "refnr": "UR-210 Y",
+            "name": "UR-210",
+            "brand": {
+                "id": 83,
+                "name": "Urwerk"
+            },
+            "family": {
+                "id": 360,
+                "name": "UR-110"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/urwerk\/ur-110\/ur-210-y-ca.jpg",
+            "updated": "2015-02-21"
+        },
+        {
+            "id": 14325,
+            "refnr": "UR-210 S",
+            "name": "UR-210",
+            "brand": {
+                "id": 83,
+                "name": "Urwerk"
+            },
+            "family": {
+                "id": 361,
+                "name": "UR-210"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/urwerk\/ur-210\/ur-210-s-6e.jpg",
+            "updated": "2015-02-21"
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "num_results": 11,
+    "watches": [
+        {
+            "id": 14563,
+            "refnr": "Flieger No Logo",
+            "name": "Flieger",
+            "brand": {
+                "id": 99,
+                "name": "Stowa"
+            },
+            "family": {
+                "id": 402,
+                "name": "Flieger"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/stowa\/flieger\/flieger-no-logo-55.jpg",
+            "updated": "2015-03-07"
+        },
+        {
+            "id": 14564,
+            "refnr": "Flieger No Logo Date",
+            "name": "Flieger",
+            "brand": {
+                "id": 99,
+                "name": "Stowa"
+            },
+            "family": {
+                "id": 402,
+                "name": "Flieger"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/stowa\/flieger\/flieger-no-logo-date-5e.jpg",
+            "updated": "2015-03-07"
+        },
+        {
+            "id": 14565,
+            "refnr": "Flieger Baumuster B",
+            "name": "Flieger Baumuster B",
+            "brand": {
+                "id": 99,
+                "name": "Stowa"
+            },
+            "family": {
+                "id": 402,
+                "name": "Flieger"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/stowa\/flieger\/flieger-baumuster-b-b.jpg",
+            "updated": "2015-03-07"
+        },
+        {
+            "id": 14566,
+            "refnr": "Flieger Logo",
+            "name": "Flieger",
+            "brand": {
+                "id": 99,
+                "name": "Stowa"
+            },
+            "family": {
+                "id": 402,
+                "name": "Flieger"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/stowa\/flieger\/flieger-logo-d8.jpg",
+            "updated": "2015-03-07"
+        },
+        {
+            "id": 14567,
+            "refnr": "Flieger Logo Datum",
+            "name": "Flieger",
+            "brand": {
+                "id": 99,
+                "name": "Stowa"
+            },
+            "family": {
+                "id": 402,
+                "name": "Flieger"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/stowa\/flieger\/flieger-logo-datum-20.jpg",
+            "updated": "2015-03-07"
+        },
+        {
+            "id": 14568,
+            "refnr": "Ikarus",
+            "name": "Ikarus",
+            "brand": {
+                "id": 99,
+                "name": "Stowa"
+            },
+            "family": {
+                "id": 402,
+                "name": "Flieger"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/stowa\/flieger\/ikarus-73.jpg",
+            "updated": "2017-05-03"
+        },
+        {
+            "id": 16460,
+            "refnr": "Flieger Sport Logo",
+            "name": "Flieger Klassik Sport Logo No-Date",
+            "brand": {
+                "id": 99,
+                "name": "Stowa"
+            },
+            "family": {
+                "id": 402,
+                "name": "Flieger"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/stowa\/flieger\/flieger-sport-logo-e7.jpg",
+            "updated": "2015-07-14"
+        },
+        {
+            "id": 16461,
+            "refnr": "Flieger Sport Logo Date",
+            "name": "Flieger Klassik Sport Logo Date",
+            "brand": {
+                "id": 99,
+                "name": "Stowa"
+            },
+            "family": {
+                "id": 402,
+                "name": "Flieger"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/stowa\/flieger\/flieger-sport-logo-date-e3.jpg",
+            "updated": "2015-07-14"
+        },
+        {
+            "id": 16462,
+            "refnr": "Flieger Sport",
+            "name": "Flieger Klassik Sport No-Date",
+            "brand": {
+                "id": 99,
+                "name": "Stowa"
+            },
+            "family": {
+                "id": 402,
+                "name": "Flieger"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/stowa\/flieger\/flieger-sport-6a.jpg",
+            "updated": "2015-07-14"
+        },
+        {
+            "id": 16463,
+            "refnr": "Flieger Sport Date",
+            "name": "Flieger Klassik Sport Date",
+            "brand": {
+                "id": 99,
+                "name": "Stowa"
+            },
+            "family": {
+                "id": 402,
+                "name": "Flieger"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/stowa\/flieger\/flieger-sport-date-c2.jpg",
+            "updated": "2015-07-14"
+        },
+        {
+            "id": 16465,
+            "refnr": "Flieger Sport BM",
+            "name": "Flieger Klassik Baumuster B",
+            "brand": {
+                "id": 99,
+                "name": "Stowa"
+            },
+            "family": {
+                "id": 402,
+                "name": "Flieger"
+            },
+            "thumb": "https:\/\/watchbase.r.sizr.io\/watch\/md\/stowa\/flieger\/flieger-sport-bm-4a.jpg",
+            "updated": "2015-07-14"
+        }
+    ]
+}
