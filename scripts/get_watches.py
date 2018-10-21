@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 def get_all_families():
     with open('../data/brands_urls.json') as f:
         family_urls = json.load(f)
-    families = [tuple(x['url'].split('/')[-2: ]) for x in family_urls ]
+    families = [tuple(x['url'].split('/')[-2: ]) for x in family_urls]
 
     return families
 
