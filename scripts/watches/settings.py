@@ -19,26 +19,7 @@ REDIRECT_ENABLED = False
 # Retry many times since proxies often fail
 RETRY_TIMES = 10
 # Retry on most error codes since proxies fail for different reasons
-RETRY_HTTP_CODES = [500, 503, 504, 400, 403, 404, 408, 302]
-
-DOWNLOADER_MIDDLEWARES = {
-    'scrapy.downloadermiddlewares.retry.RetryMiddleware': 90,
-    'scrapy_proxies.RandomProxy': 100,
-    'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware': 110,
-}
-
-# Proxy list containing entries like
-# http://host1:port
-# http://username:password@host2:port
-# http://host3:port
-# ...
-PROXY_LIST = 'proxies.txt'
-
-# Proxy mode
-# 0 = Every requests have different proxy
-# 1 = Take only one proxy from the list and assign it to every requests
-# 2 = Put a custom proxy to use in the settings
-PROXY_MODE = 0
+RETRY_HTTP_CODES = [500, 503, 504, 400, 403, 404, 408]
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
