@@ -4,6 +4,7 @@ import json
 import requests
 from bs4 import BeautifulSoup
 
+BASE_URL = os.environ['BASE_URL']
 
 def get_all_families():
     with open('../data/brands_urls.json') as f:
@@ -58,7 +59,7 @@ def main():
 
     for brand, family in families_for_scrape:
         print(brand, family)
-        url = 'https://watchbase.com/%s/%s' % (brand, family)
+        url = '%s/%s/%s' % (BASE_URL, brand, family)
 
         try:
             watches_links = get_watches_links_from_family_page(url)

@@ -5,6 +5,9 @@ import random
 import requests
 from multiprocessing import Pool
 
+
+BASE_URL = os.environ['BASE_URL']
+
 class ProxyList:
     def __init__(self):
         self.proxies = []
@@ -63,7 +66,7 @@ def get_needs_to_download():
 
 def process_page(watch):
     brand, family, model = watch
-    url = 'https://watchbase.com/%s/%s/%s' % (brand, family, model)
+    url = '%s/%s/%s/%s' % (BASE_URL, brand, family, model)
 
     proxy_address = proxy_list.random_proxy()
     session = requests.session()

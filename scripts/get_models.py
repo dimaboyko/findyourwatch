@@ -3,6 +3,8 @@ import json
 import time
 import requests
 
+BASE_API_URL = os.environ['BASE_API_URL']
+
 def main():
     with open('../data/api/brands.json') as f:
         data = f.read()
@@ -16,9 +18,9 @@ def main():
         brand_id = brand['id']
         print(brand_name)
 
-        r = requests.post('http://api.watchbase.com/v1/watches', data = {'key': API_KEY,
-                                                                         'brand-id': brand_id,
-                                                                         'format': 'json'})
+        r = requests.post('%s/v1/watches' % BASE_API_URL, data = {'key': API_KEY,
+                                                                  'brand-id': brand_id,
+                                                                  'format': 'json'})
 
 
 

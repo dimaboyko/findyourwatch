@@ -1,10 +1,12 @@
+import os
 import scrapy
 
+BASE_URL = os.environ['BASE_URL']
 
 class BrandsSpider(scrapy.Spider):
     name = "brands"
     start_urls = [
-        'https://watchbase.com/watches'
+        '%s/watches' % BASE_URL
     ]
 
     def parse(self, response):
