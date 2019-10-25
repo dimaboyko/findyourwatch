@@ -1,12 +1,10 @@
 require 'bundler/setup'
 require 'hanami/setup'
 require 'hanami/model'
-require_relative '../lib/hanami_server'
-require_relative '../apps/api/application'
+require_relative '../lib/server'
 require_relative '../apps/web/application'
 
 Hanami.configure do
-  mount Api::Application, at: '/api'
   mount Web::Application, at: '/'
 
   model do
@@ -16,9 +14,9 @@ Hanami.configure do
     # Available options:
     #
     #  * SQL adapter
-    #    adapter :sql, 'sqlite://db/hanami_server_development.sqlite3'
-    #    adapter :sql, 'postgresql://localhost/hanami_server_development'
-    #    adapter :sql, 'mysql://localhost/hanami_server_development'
+    #    adapter :sql, 'sqlite://db/server_development.sqlite3'
+    #    adapter :sql, 'postgresql://localhost/server_development'
+    #    adapter :sql, 'mysql://localhost/server_development'
     #
     adapter :sql, ENV.fetch('DATABASE_URL')
 
@@ -30,14 +28,14 @@ Hanami.configure do
   end
 
   mailer do
-    root 'lib/hanami_server/mailers'
+    root 'lib/server/mailers'
 
-    # See http://hanamirb.org/guides/mailers/delivery
+    # See https://guides.hanamirb.org/mailers/delivery
     delivery :test
   end
 
   environment :development do
-    # See: http://hanamirb.org/guides/projects/logging
+    # See: https://guides.hanamirb.org/projects/logging
     logger level: :debug
   end
 
